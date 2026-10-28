@@ -1,0 +1,38 @@
+name: Scan des actions
+
+on:
+  schedule:
+    # Cron GitHub en UTC : 3h17 UTC = 4h17 à Paris en hiver, 5h17 en été.
+    # Du lundi au vendredi, avant la tâche Claude « Scan du matin » de 6h45.
+    - cron: "17 3 * * 1-5"
+  workflow_dispatch: # bouton « Run workflow » pour un lancement manuel
+
+permissions:
+  contents: write
+
+concurrency: scan
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scan
+        run: python scan_actions.py
+
+      - name: Publier les résultats
+        run: |
+          git config user.name "scan-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results/
+          git commit -m "Scan du $(date -u +%F)" || echo "Rien à publier"
+          git push
