@@ -339,12 +339,12 @@ def apply_fundamentals(r: dict, f: dict | None, fx: dict, sector_pe: dict, today
     r["capitalisation_eur"] = cap_eur
     if cap_eur is not None and cap_eur < CONFIG["capitalisation_min_eur"]:
         r["raisons"].append("capitalisation < 1 Md€")
-    # Agenda des résultats : pas de publication dans les 5 prochaines séances (≈ 7 jours calendaires)
+    # Agenda des résultats : aucune publication entre la séance du signal et les 5 prochaines séances
+    # (≈ 7 jours calendaires). Une publication après la clôture du signal bloque aussi : l'entrée se ferait en gap.
     nxt = f.get("prochains_resultats")
     if nxt:
         r["prochains_resultats"] = nxt
-        delta = (pd.Timestamp(nxt) - today).days
-        if 0 <= delta <= 7:
+        if pd.Timestamp(r["seance"]) <= pd.Timestamp(nxt) <= today + pd.Timedelta(days=7):
             r["raisons"].append(f"résultats le {nxt}")
     else:
         r["a_verifier"].append("date des résultats non mesurée")
@@ -402,6 +402,11 @@ def main() -> None:
 
     fx_syms = [f"EUR{c}=X" for c in FX_CCYS]
     prices = download_prices(symbols + fx_syms)
+    missing = [s for s in symbols + fx_syms if s not in prices]
+    if missing:  # seconde tentative, par petits lots, après une pause (refus passagers de Yahoo)
+        time.sleep(30)
+        CONFIG["taille_lot_telechargement"] = 5
+        prices.update(download_prices(missing))
     fx = {c: float(prices[f"EUR{c}=X"]["Close"].iloc[-1]) for c in FX_CCYS if f"EUR{c}=X" in prices}
 
     results = []
