@@ -1,0 +1,216 @@
+{
+ "BK": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "propositions",
+  "essais": [
+   {
+    "symbole": "BK",
+    "donnees": false
+   }
+  ],
+  "propositions": [
+   {
+    "symbole": "BKNG",
+    "nom": "Booking Holdings Inc."
+   },
+   {
+    "symbole": "BKR",
+    "nom": "Baker Hughes Company"
+   },
+   {
+    "symbole": "BKSY",
+    "nom": "BlackSky Technology Inc."
+   }
+  ]
+ },
+ "CTRA": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "introuvable",
+  "essais": [
+   {
+    "symbole": "CTRA",
+    "donnees": false
+   }
+  ]
+ },
+ "HOLX": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "introuvable",
+  "essais": [
+   {
+    "symbole": "HOLX",
+    "donnees": false
+   }
+  ]
+ },
+ "ROG.SW": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "RO.SW",
+    "donnees": true
+   }
+  ],
+  "nouveau": "RO.SW",
+  "nom": "Roche Holding AG"
+ },
+ "NDA.HE": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "NDA-FI.HE",
+    "donnees": true
+   }
+  ],
+  "nouveau": "NDA-FI.HE",
+  "nom": "Nordea Bank Abp"
+ },
+ "NOK.HE": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "NOKIA.HE",
+    "donnees": true
+   }
+  ],
+  "nouveau": "NOKIA.HE",
+  "nom": "Nokia Oyj"
+ },
+ "PHG.AS": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "PHIA.AS",
+    "donnees": true
+   }
+  ],
+  "nouveau": "PHIA.AS",
+  "nom": "Koninklijke Philips N.V."
+ },
+ "STM.AS": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "STMPA.PA",
+    "donnees": true
+   }
+  ],
+  "nouveau": "STMPA.PA",
+  "nom": "STMicroelectronics N.V."
+ },
+ "ABNA.AS": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "ABN.AS",
+    "donnees": true
+   }
+  ],
+  "nouveau": "ABN.AS",
+  "nom": "ABN AMRO Bank N.V."
+ },
+ "KGP.IR": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "KRX.IR",
+    "donnees": true
+   }
+  ],
+  "nouveau": "KRX.IR",
+  "nom": "Kingspan Group plc"
+ },
+ "KYGA.IR": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "KRZ.IR",
+    "donnees": true
+   }
+  ],
+  "nouveau": "KRZ.IR",
+  "nom": "Kerry Group plc"
+ },
+ "SLET.L": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "SLA.L",
+    "donnees": false
+   },
+   {
+    "symbole": "ABDN.L",
+    "donnees": true
+   }
+  ],
+  "nouveau": "ABDN.L",
+  "nom": "Aberdeen Group Plc"
+ },
+ "BDEV.L": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "BTRW.L",
+    "donnees": true
+   }
+  ],
+  "nouveau": "BTRW.L",
+  "nom": "Barratt Redrow plc"
+ },
+ "JDEP.AS": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "introuvable",
+  "essais": [
+   {
+    "symbole": "JDEP.AS",
+    "donnees": false
+   }
+  ]
+ },
+ "SIG.SW": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "SIGN.SW",
+    "donnees": true
+   }
+  ],
+  "nouveau": "SIGN.SW",
+  "nom": "SIG Group AG"
+ },
+ "FI-N.SW": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "GF.SW",
+    "donnees": true
+   }
+  ],
+  "nouveau": "GF.SW",
+  "nom": "Georg Fischer AG"
+ },
+ "FLU.CO": {
+  "verifie_le": "2026-10-28T10:50+00:00",
+  "statut": "remplace",
+  "essais": [
+   {
+    "symbole": "FLS.CO",
+    "donnees": true
+   }
+  ],
+  "nouveau": "FLS.CO",
+  "nom": "FLSmidth & Co. A/S"
+ }
+}

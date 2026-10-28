@@ -42,7 +42,7 @@ Aucun.
 - HSIC : setup B, niveau 84,79 USD, à 0,00 ATR
 - LW : setup B, niveau 53,54 USD, à 0,00 ATR
 
-Couverture : 659/676 actions avec données, 2 setups, 300 fiches fondamentales en cache.
+Couverture : 672/676 actions avec données, 2 setups, 450 fiches fondamentales en cache.
 
 *Pivots, zones et structure calculés avec les swings journaliers et hebdomadaires ; notation mensuelle = MACD mensuel + SMA10 ; pas d'order blocks, FVG, BOS/CHoCH ni notation TradingView.*
 
