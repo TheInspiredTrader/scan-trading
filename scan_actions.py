@@ -392,11 +392,108 @@ def size(r: dict, fx: dict) -> None:
 
 
 # --------------------------------------------------------------------------- programme
+# --------------------------------------------------------------------------- vérification des symboles
+# Remplacements probables pour les symboles qui ne renvoient pas de données sur Yahoo.
+# Un candidat n'est retenu que s'il renvoie des cours ; sinon le suivant est essayé.
+CANDIDATS = {
+    "PHG.AS": ["PHIA.AS"], "ABNA.AS": ["ABN.AS"], "STM.AS": ["STMPA.PA", "STMMI.MI"],
+    "NDA.HE": ["NDA-FI.HE", "NDA-SE.ST"], "NOK.HE": ["NOKIA.HE"], "KGP.IR": ["KRX.IR", "KGP.L"],
+    "KYGA.IR": ["KRZ.IR", "KYGA.L"], "BDEV.L": ["BTRW.L"], "SIG.SW": ["SIGN.SW"],
+    "FI-N.SW": ["GF.SW", "FIN.SW"], "ROG.SW": ["RO.SW", "ROG.SW"], "SLET.L": ["SLA.L", "ABDN.L"],
+    "FLU.CO": ["FLS.CO"], "JDEP.AS": ["JDEP.AS"], "BK": ["BK"], "CTRA": ["CTRA"], "HOLX": ["HOLX"],
+}
+
+
+def has_data(symbol: str) -> bool:
+    yf = _yf()
+    try:
+        raw = yf.download(symbol, period="1mo", interval="1d", auto_adjust=True, progress=False, threads=False)
+        if raw is None or raw.empty:
+            return False
+        cols = raw.columns
+        if isinstance(cols, pd.MultiIndex):  # colonnes (champ, ticker) ou (ticker, champ) selon la version
+            level = next((i for i in range(cols.nlevels) if "Close" in cols.get_level_values(i)), None)
+            if level is None:
+                return False
+            close = raw.xs("Close", axis=1, level=level)
+        else:
+            close = raw.get("Close")
+        if isinstance(close, pd.DataFrame):
+            close = close.iloc[:, 0]
+        return close is not None and close.dropna().shape[0] >= 5
+    except Exception:
+        return False
+
+
+def company_name(symbol: str) -> str | None:
+    """Nom de la société, pour contrôler qu'un remplacement désigne bien la même entreprise."""
+    try:
+        info = _yf().Ticker(symbol).info or {}
+        return info.get("longName") or info.get("shortName")
+    except Exception:
+        return None
+
+
+def search_candidates(symbol: str) -> list[dict]:
+    """Recherche Yahoo par la racine du symbole, sur la même place de cotation (même suffixe)."""
+    yf = _yf()
+    base, suffix = (symbol.rsplit(".", 1) + [""])[:2] if "." in symbol else (symbol, "")
+    try:
+        quotes = yf.Search(base.split("-")[0], max_results=10, news_count=0).quotes
+    except Exception:
+        return []
+    out = []
+    for q in quotes:
+        s = q.get("symbol", "")
+        same_place = s.endswith("." + suffix) if suffix else "." not in s
+        if q.get("quoteType") == "EQUITY" and same_place and s != symbol:
+            out.append({"symbole": s, "nom": q.get("longname") or q.get("shortname")})
+    return out
+
+
+def verifier_symboles(tickers: pd.DataFrame, now: datetime) -> pd.DataFrame:
+    """Teste des remplacements pour les symboles restés sans données au scan précédent.
+
+    Correspondance connue qui renvoie des cours → remplacement dans tickers.csv (colonne Yahoo).
+    Résultat de recherche → simple proposition, à valider à la main (risque de confusion de société).
+    """
+    prev_path, log_path = RESULTS / "scan_actions.json", RESULTS / "symboles.json"
+    if not prev_path.exists():
+        return tickers
+    missing = json.loads(prev_path.read_text(encoding="utf-8")).get("couverture", {}).get("sans_donnees", [])
+    log = json.loads(log_path.read_text(encoding="utf-8")) if log_path.exists() else {}
+    for sym in missing:
+        if sym not in set(tickers["Yahoo"]):
+            continue
+        entry = {"verifie_le": now.isoformat(timespec="minutes"), "statut": "introuvable", "essais": []}
+        for cand in CANDIDATS.get(sym, []):
+            ok = has_data(cand)
+            entry["essais"].append({"symbole": cand, "donnees": ok})
+            if ok and cand != sym:
+                tickers.loc[tickers["Yahoo"] == sym, "Yahoo"] = cand
+                entry.update(statut="remplace", nouveau=cand, nom=company_name(cand))
+                break
+            if ok and cand == sym:  # le symbole d'origine répond de nouveau : refus passager
+                entry["statut"] = "de_nouveau_disponible"
+                break
+            time.sleep(1)
+        if entry["statut"] == "introuvable":
+            props = [p for p in search_candidates(sym) if has_data(p["symbole"])][:3]
+            if props:
+                entry.update(statut="propositions", propositions=props)
+        log[sym] = entry
+        print(f"symbole {sym}: {entry['statut']} {entry.get('nouveau', '')}")
+    log_path.write_text(json.dumps(log, ensure_ascii=False, indent=1), encoding="utf-8")
+    tickers = tickers.drop_duplicates("Yahoo")
+    tickers.to_csv(ROOT / "tickers.csv", index=False)
+    return tickers
+
+
 def main() -> None:
     RESULTS.mkdir(exist_ok=True)
     now = datetime.now(timezone.utc)
     today = pd.Timestamp(now.date())
-    tickers = pd.read_csv(ROOT / "tickers.csv")
+    tickers = verifier_symboles(pd.read_csv(ROOT / "tickers.csv"), now)
     symbols = tickers["Yahoo"].tolist()
     sector_of = {}
 

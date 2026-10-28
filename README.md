@@ -32,6 +32,10 @@ Chaque matin du lundi au vendredi, vers 4h15 (heure de Paris), GitHub Actions an
 - Le cache des fondamentaux se remplit progressivement : 150 fiches par jour, en commençant par les actions qui ont un setup. Les premiers jours, certaines vérifications apparaissent en « à vérifier ».
 - GitHub peut lancer un workflow planifié avec du retard. Si le résultat n'est pas daté du jour, la tâche Claude le signale.
 
+## Vérification des symboles
+
+Au début de chaque lancement, les tickers restés sans données au scan précédent sont retestés. Si un remplacement connu (table `CANDIDATS` du script) renvoie des cours, il remplace le ticker dans la colonne `Yahoo` de `tickers.csv` ; la colonne `Ticker` garde le symbole d'origine. Sinon, une recherche Yahoo sur la même place de cotation produit des propositions, sans remplacement automatique. Le détail, avec le nom de la société retenue, est dans `results/symboles.json`.
+
 ## Lancer le scan à la main
 
 Onglet **Actions** → **Scan des actions** → **Run workflow**.
