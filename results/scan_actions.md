@@ -1,12 +1,10 @@
 # Scan des actions — 2026-10-28
 
-1 entrée(s) validée(s), 0 trade(s) papier, 0 bloquée(s) par les résultats.
+0 entrée(s) validée(s), 0 trade(s) papier, 1 bloquée(s) par les résultats.
 
 ## Entrées validées
 
-| Action | Setup | Score | Entrée | Stop | T1 | T2 | R:R T1 | Quantité | À vérifier |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| NXPI | A | 9/10 | 253,50 USD | 229,63 | 324,93 | 337,28 | 2,99 | 13 | — |
+Aucune entrée validée aujourd'hui.
 
 ## Trades papier
 
@@ -14,7 +12,7 @@ Aucun.
 
 ## Bloquées par les résultats
 
-Aucun.
+- NXPI : setup A, score 9/10, entrée 253,50, stop 229,63, résultats le 2026-10-27
 
 ## À surveiller
 
@@ -44,7 +42,7 @@ Aucun.
 - HSIC : setup B, niveau 84,79 USD, à 0,00 ATR
 - LW : setup B, niveau 53,54 USD, à 0,00 ATR
 
-Couverture : 659/676 actions avec données, 2 setups, 150 fiches fondamentales en cache.
+Couverture : 659/676 actions avec données, 2 setups, 300 fiches fondamentales en cache.
 
 *Pivots, zones et structure calculés avec les swings journaliers et hebdomadaires ; notation mensuelle = MACD mensuel + SMA10 ; pas d'order blocks, FVG, BOS/CHoCH ni notation TradingView.*
 
