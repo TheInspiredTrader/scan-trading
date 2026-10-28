@@ -400,7 +400,7 @@ CANDIDATS = {
     "NDA.HE": ["NDA-FI.HE", "NDA-SE.ST"], "NOK.HE": ["NOKIA.HE"], "KGP.IR": ["KRX.IR", "KGP.L"],
     "KYGA.IR": ["KRZ.IR", "KYGA.L"], "BDEV.L": ["BTRW.L"], "SIG.SW": ["SIGN.SW"],
     "FI-N.SW": ["GF.SW", "FIN.SW"], "ROG.SW": ["RO.SW", "ROG.SW"], "SLET.L": ["SLA.L", "ABDN.L"],
-    "FLU.CO": ["FLS.CO"], "JDEP.AS": ["JDEP.AS"], "BK": ["BK"], "CTRA": ["CTRA"], "HOLX": ["HOLX"],
+    "FLU.CO": ["FLS.CO"], "BK": ["BNY"],
 }
 
 
