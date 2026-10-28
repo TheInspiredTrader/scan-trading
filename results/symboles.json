@@ -1,27 +1,15 @@
 {
  "BK": {
-  "verifie_le": "2026-10-28T10:50+00:00",
-  "statut": "propositions",
+  "verifie_le": "2026-10-28T11:08+00:00",
+  "statut": "remplace",
   "essais": [
    {
-    "symbole": "BK",
-    "donnees": false
+    "symbole": "BNY",
+    "donnees": true
    }
   ],
-  "propositions": [
-   {
-    "symbole": "BKNG",
-    "nom": "Booking Holdings Inc."
-   },
-   {
-    "symbole": "BKR",
-    "nom": "Baker Hughes Company"
-   },
-   {
-    "symbole": "BKSY",
-    "nom": "BlackSky Technology Inc."
-   }
-  ]
+  "nouveau": "BNY",
+  "nom": "The Bank of New York Mellon Corporation"
  },
  "CTRA": {
   "verifie_le": "2026-10-28T10:50+00:00",
