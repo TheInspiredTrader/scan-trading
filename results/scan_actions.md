@@ -1,12 +1,10 @@
-# Scan des actions — 2026-11-03
+# Scan des actions — 2026-11-04
 
-1 entrée(s) validée(s), 0 trade(s) papier, 0 bloquée(s) par les résultats.
+0 entrée(s) validée(s), 0 trade(s) papier, 0 bloquée(s) par les résultats.
 
 ## Entrées validées
 
-| Action | Setup | Score | Entrée | Stop | T1 | T2 | R:R T1 | Quantité | À vérifier |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CAP.PA | A | 9/10 | 127,65 EUR | 120,10 | 147,99 | 148,28 | 2,69 | 39 | — |
+Aucune entrée validée aujourd'hui.
 
 ## Trades papier
 
@@ -18,31 +16,31 @@ Aucun.
 
 ## À surveiller
 
-- JNJ : setup B, niveau 267,52 USD, à 0,00 ATR
-- CVX : setup B, niveau 230,04 USD, à 0,00 ATR
-- CRM : setup B, niveau 225,63 USD, à 0,00 ATR
-- ELV : setup B, niveau 417,29 USD, à 0,00 ATR
-- CI : setup B, niveau 297,83 USD, à 0,00 ATR
-- AEP : setup B, niveau 129,15 USD, à 0,00 ATR
-- TRV : setup B, niveau 395,53 USD, à 0,00 ATR
-- ROST : setup B, niveau 229,59 USD, à 0,00 ATR
-- VLO : setup B, niveau 384,14 USD, à 0,00 ATR
-- MET : setup B, niveau 100,17 USD, à 0,00 ATR
-- OXY : setup B, niveau 61,10 USD, à 0,00 ATR
-- FANG : setup B, niveau 197,91 USD, à 0,00 ATR
-- EL : setup B, niveau 104,35 USD, à 0,00 ATR
-- A : setup B, niveau 172,44 USD, à 0,00 ATR
-- IQV : setup B, niveau 261,74 USD, à 0,00 ATR
-- MTD : setup B, niveau 1 668,94 USD, à 0,00 ATR
-- DVN : setup B, niveau 49,17 USD, à 0,00 ATR
-- HUM : setup B, niveau 414,20 USD, à 0,00 ATR
-- CNC : setup B, niveau 67,06 USD, à 0,00 ATR
-- PTC : setup B, niveau 194,10 USD, à 0,00 ATR
-- CDW : setup B, niveau 152,23 USD, à 0,00 ATR
-- RVTY : setup B, niveau 151,89 USD, à 0,00 ATR
-- APA : setup B, niveau 48,70 USD, à 0,00 ATR
-- ASML.AS : setup B, niveau 1 409,73 EUR, à 0,00 ATR
-- AKZA.AS : setup B, niveau 58,68 EUR, à 0,00 ATR
+- AAPL : setup B, niveau 334,42 USD, à 0,00 ATR
+- JNJ : setup B, niveau 267,49 USD, à 0,00 ATR
+- PLTR : setup B, niveau 168,90 USD, à 0,00 ATR
+- IBM : setup B, niveau 251,28 USD, à 0,00 ATR
+- CRM : setup B, niveau 224,83 USD, à 0,00 ATR
+- ADBE : setup B, niveau 245,98 USD, à 0,00 ATR
+- WMB : setup B, niveau 70,15 USD, à 0,00 ATR
+- ELV : setup B, niveau 417,17 USD, à 0,00 ATR
+- CI : setup B, niveau 297,73 USD, à 0,00 ATR
+- KMI : setup B, niveau 32,59 USD, à 0,00 ATR
+- AEP : setup B, niveau 129,12 USD, à 0,00 ATR
+- TRV : setup B, niveau 395,44 USD, à 0,00 ATR
+- ROST : setup B, niveau 229,53 USD, à 0,00 ATR
+- PSX : setup B, niveau 271,92 USD, à 0,00 ATR
+- VLO : setup B, niveau 386,32 USD, à 0,00 ATR
+- MPC : setup B, niveau 428,35 USD, à 0,00 ATR
+- OKE : setup B, niveau 91,31 USD, à 0,00 ATR
+- MET : setup B, niveau 99,58 USD, à 0,00 ATR
+- OXY : setup B, niveau 61,08 USD, à 0,00 ATR
+- KDP : setup B, niveau 34,75 USD, à 0,00 ATR
+- CCI : setup B, niveau 85,25 USD, à 0,00 ATR
+- RMD : setup B, niveau 221,61 USD, à 0,00 ATR
+- WDAY : setup B, niveau 194,42 USD, à 0,00 ATR
+- A : setup B, niveau 172,50 USD, à 0,00 ATR
+- CTSH : setup B, niveau 62,96 USD, à 0,00 ATR
 
 Couverture : 673/673 actions avec données, 1 setups, 676 fiches fondamentales en cache.
 
