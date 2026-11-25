@@ -10355,15 +10355,15 @@
   }
  },
  "HRL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 550350800,
    "totalDebt": 2855122944,
    "totalCash": 868446016,
    "ebitda": 1264931968,
    "freeCashflow": 621551616,
-   "trailingPE": 35.484375,
-   "targetMeanPrice": 24.9375,
+   "trailingPE": 37.532257,
+   "targetMeanPrice": 25.0625,
    "sector": "Consumer Defensive",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10378,60 +10378,60 @@
   }
  },
  "AKAM": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 144229175,
    "totalDebt": 9448298496,
    "totalCash": 3519318016,
    "ebitda": 1034856000,
    "freeCashflow": 190033248,
-   "trailingPE": 33.26087,
+   "trailingPE": 34.754864,
    "targetMeanPrice": 128.60045,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793912400,
+   "earningsTimestampStart": 1802984400,
    "earningsTimestamp": 1793912400,
    "fcf_annuels": [
     699265000.0,
     833904000.0,
     618399000.0
    ],
-   "prochains_resultats": "2026-11-05"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "ALGN": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 70487053,
    "totalDebt": 146459008,
    "totalCash": 1144930944,
    "ebitda": 962401984,
    "freeCashflow": 573700352,
-   "trailingPE": 24.516987,
+   "trailingPE": 23.659973,
    "targetMeanPrice": 185.7857,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793217600,
+   "earningsTimestampStart": 1801688400,
    "earningsTimestamp": 1793217600,
    "fcf_annuels": [
     490778000.0,
     622651000.0,
     608060000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "NWS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 178765515,
+   "sharesOutstanding": 178685745,
    "totalDebt": 2934000128,
    "totalCash": 1782000000,
    "ebitda": 1400000000,
    "freeCashflow": 754249984,
-   "trailingPE": 26.639639,
+   "trailingPE": 25.65625,
    "targetMeanPrice": null,
    "sector": "Communication Services",
    "financialCurrency": "USD",
@@ -10447,61 +10447,61 @@
   }
  },
  "TYL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 39759524,
    "totalDebt": 1455303040,
    "totalCash": 879393984,
    "ebitda": 476884992,
    "freeCashflow": 689574976,
-   "trailingPE": 52.91677,
-   "targetMeanPrice": 446.13635,
+   "trailingPE": 50.79926,
+   "targetMeanPrice": 450.0,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793217600,
+   "earningsTimestampStart": 1802293200,
    "earningsTimestamp": 1793217600,
    "fcf_annuels": [
     620750000.0,
     574697000.0,
     327431000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "GEN": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 593276080,
    "totalDebt": 8115999744,
    "totalCash": 583000000,
    "ebitda": 2496999936,
    "freeCashflow": 1811250048,
-   "trailingPE": 15.431472,
+   "trailingPE": 15.280612,
    "targetMeanPrice": 32.275,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793217600,
+   "earningsTimestampStart": 1801774800,
    "earningsTimestamp": 1793217600,
    "fcf_annuels": [
     1523000000.0,
     1206000000.0,
     2044000000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "BBY": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 209727698,
    "totalDebt": 4140999936,
    "totalCash": 2409999872,
    "ebitda": 2617999872,
    "freeCashflow": 1403374976,
-   "trailingPE": 17.311558,
-   "targetMeanPrice": 90.05,
+   "trailingPE": 16.145866,
+   "targetMeanPrice": 94.95238,
    "sector": "Consumer Cyclical",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10516,60 +10516,60 @@
   }
  },
  "GNRC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 58988982,
    "totalDebt": 1421377024,
    "totalCash": 396656992,
    "ebitda": 621225024,
    "freeCashflow": 335098368,
-   "trailingPE": 37.651115,
-   "targetMeanPrice": 288.5,
+   "trailingPE": 39.12426,
+   "targetMeanPrice": 289.05557,
    "sector": "Industrials",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793190600,
+   "earningsTimestampStart": 1802266200,
    "earningsTimestamp": 1793190600,
    "fcf_annuels": [
     268128000.0,
     604568000.0,
     392610000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "UDR": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 316888770,
    "totalDebt": 5936336896,
    "totalCash": 3315000,
    "ebitda": 1022934016,
    "freeCashflow": 840083968,
-   "trailingPE": 17.15566,
-   "targetMeanPrice": 39.59524,
+   "trailingPE": 16.823254,
+   "targetMeanPrice": 39.7381,
    "sector": "Real Estate",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793653200,
+   "earningsTimestampStart": 1802293200,
    "earningsTimestamp": 1793653200,
    "fcf_annuels": [
     613946000.0,
     605161000.0,
     520317000.0
    ],
-   "prochains_resultats": "2026-11-02"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "NWSA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 357898997,
+   "sharesOutstanding": 357720964,
    "totalDebt": 2934000128,
    "totalCash": 1782000000,
    "ebitda": 1400000000,
    "freeCashflow": 754249984,
-   "trailingPE": 24.018017,
+   "trailingPE": 23.214285,
    "targetMeanPrice": 36.36667,
    "sector": "Communication Services",
    "financialCurrency": "USD",
@@ -10585,37 +10585,37 @@
   }
  },
  "DPZ": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 32896056,
    "totalDebt": 5121823232,
    "totalCash": 229035008,
    "ebitda": 1042630016,
    "freeCashflow": 566022976,
-   "trailingPE": 18.826632,
-   "targetMeanPrice": 359.37036,
+   "trailingPE": 19.642975,
+   "targetMeanPrice": 357.07144,
    "sector": "Consumer Cyclical",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1791894600,
+   "earningsTimestampStart": 1803303000,
    "earningsTimestamp": 1791894600,
    "fcf_annuels": [
     671504000.0,
     512012000.0,
     485468000.0
    ],
-   "prochains_resultats": "2026-10-13"
+   "prochains_resultats": "2027-02-22"
   }
  },
  "SOLV": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 169956897,
    "totalDebt": 5294000128,
    "totalCash": 451000000,
    "ebitda": 1003000000,
    "freeCashflow": 180124992,
-   "trailingPE": 99.60674,
+   "trailingPE": 99.05618,
    "targetMeanPrice": 98.38462,
    "sector": "Healthcare",
    "financialCurrency": "USD",
@@ -10631,37 +10631,37 @@
   }
  },
  "ZBRA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 47087454,
    "totalDebt": 2776000000,
    "totalCash": 182000000,
    "ebitda": 1244000000,
    "freeCashflow": 699374976,
-   "trailingPE": 26.175798,
+   "trailingPE": 25.880854,
    "targetMeanPrice": 411.48688,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793712600,
+   "earningsTimestampStart": 1802179800,
    "earningsTimestamp": 1793712600,
    "fcf_annuels": [
     831000000.0,
     954000000.0,
     -91000000.0
    ],
-   "prochains_resultats": "2026-11-03"
+   "prochains_resultats": "2027-02-09"
   }
  },
  "GDDY": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 121274701,
    "totalDebt": 3841999872,
    "totalCash": 1164899968,
    "ebitda": 1426599936,
    "freeCashflow": 1213387520,
-   "trailingPE": 15.695105,
+   "trailingPE": 14.068776,
    "targetMeanPrice": 118.9375,
    "sector": "Technology",
    "financialCurrency": "USD",
@@ -10677,38 +10677,38 @@
   }
  },
  "BLDR": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 107606319,
    "totalDebt": 5280438784,
    "totalCash": 55012000,
    "ebitda": 893702016,
    "freeCashflow": 140287744,
-   "trailingPE": 162.56757,
+   "trailingPE": 153.6579,
    "targetMeanPrice": 67.5,
    "sector": "Industrials",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793277000,
+   "earningsTimestampStart": 1802957400,
    "earningsTimestamp": 1793277000,
    "fcf_annuels": [
     853284000.0,
     1492123000.0,
     1830537000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "TTD": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 429792121,
    "totalDebt": 581289984,
    "totalCash": 1649667968,
    "ebitda": 673432000,
    "freeCashflow": 808181888,
-   "trailingPE": 23.171875,
-   "targetMeanPrice": 14.95,
+   "trailingPE": 20.691175,
+   "targetMeanPrice": 15.01667,
    "sector": "Communication Services",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10723,15 +10723,15 @@
   }
  },
  "DOC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 689543752,
    "totalDebt": 9670730752,
    "totalCash": 544217984,
    "ebitda": 1588985984,
    "freeCashflow": 1613404928,
-   "trailingPE": 36.740738,
-   "targetMeanPrice": 22.5,
+   "trailingPE": 37.72222,
+   "targetMeanPrice": 22.39474,
    "sector": "Real Estate",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10746,38 +10746,38 @@
   }
  },
  "WYNN": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 102551611,
    "totalDebt": 12355514368,
    "totalCash": 1792358016,
    "ebitda": 1704311040,
    "freeCashflow": 377973248,
-   "trailingPE": 24.040936,
-   "targetMeanPrice": 116.15,
+   "trailingPE": 23.759888,
+   "targetMeanPrice": 115.9,
    "sector": "Consumer Cyclical",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793912400,
+   "earningsTimestampStart": 1802379600,
    "earningsTimestamp": 1793912400,
    "fcf_annuels": [
     691763000.0,
     1003659000.0,
     794334000.0
    ],
-   "prochains_resultats": "2026-11-05"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "SJM": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 106823183,
    "totalDebt": 6940199936,
    "totalCash": 43200000,
    "ebitda": 2263899904,
    "freeCashflow": 1464337536,
-   "trailingPE": 61.890408,
-   "targetMeanPrice": 141.875,
+   "trailingPE": 61.14486,
+   "targetMeanPrice": 142.9375,
    "sector": "Consumer Defensive",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10792,15 +10792,15 @@
   }
  },
  "PNW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 121201207,
    "totalDebt": 16966884352,
    "totalCash": 11124000,
    "ebitda": 2209865984,
    "freeCashflow": -997653888,
-   "trailingPE": 20.101147,
-   "targetMeanPrice": 105.93333,
+   "trailingPE": 19.201128,
+   "targetMeanPrice": 106.0,
    "sector": "Utilities",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10815,14 +10815,14 @@
   }
  },
  "AES": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 713564658,
    "totalDebt": 33724999680,
    "totalCash": 2026000000,
    "ebitda": 4355999744,
    "freeCashflow": -3240499968,
-   "trailingPE": 5.976,
+   "trailingPE": 6.032129,
    "targetMeanPrice": 15.0,
    "sector": "Utilities",
    "financialCurrency": "USD",
@@ -10838,7 +10838,7 @@
   }
  },
  "PSKY": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1093020754,
    "totalDebt": 16202000384,
@@ -10861,7 +10861,7 @@
   }
  },
  "IVZ": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 439528938,
    "totalDebt": 1281299968,
@@ -10869,7 +10869,7 @@
    "ebitda": 1603699968,
    "freeCashflow": 1319750016,
    "trailingPE": null,
-   "targetMeanPrice": 35.0,
+   "targetMeanPrice": 35.13333,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10884,37 +10884,37 @@
   }
  },
  "GL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 75439736,
    "totalDebt": 3447386880,
    "totalCash": 353164992,
    "ebitda": 1652884992,
    "freeCashflow": 1490551680,
-   "trailingPE": 10.762322,
-   "targetMeanPrice": 185.45454,
+   "trailingPE": 10.384204,
+   "targetMeanPrice": 184.81818,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1792612800,
+   "earningsTimestampStart": 1801688400,
    "earningsTimestamp": 1792612800,
    "fcf_annuels": [
     1253907000.0,
     1331395000.0,
     1432872000.0
    ],
-   "prochains_resultats": "2026-10-21"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "JKHY": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 69618713,
    "totalDebt": 120707000,
    "totalCash": 25356000,
    "ebitda": 729166016,
    "freeCashflow": 403928256,
-   "trailingPE": 24.407913,
+   "trailingPE": 24.359888,
    "targetMeanPrice": 200.0,
    "sector": "Technology",
    "financialCurrency": "USD",
@@ -10930,15 +10930,15 @@
   }
  },
  "CPT": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 100069681,
    "totalDebt": 4253276928,
    "totalCash": 168704000,
    "ebitda": 889776000,
    "freeCashflow": 247081632,
-   "trailingPE": 9.26729,
-   "targetMeanPrice": 109.55682,
+   "trailingPE": 8.959706,
+   "targetMeanPrice": 109.32955,
    "sector": "Real Estate",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -10953,14 +10953,14 @@
   }
  },
  "RVTY": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 111638757,
    "totalDebt": 2765031936,
    "totalCash": 592798976,
    "ebitda": 903257984,
    "freeCashflow": 632513472,
-   "trailingPE": 68.59447,
+   "trailingPE": 68.075554,
    "targetMeanPrice": 171.4,
    "sector": "Healthcare",
    "financialCurrency": "USD",
@@ -10976,30 +10976,30 @@
   }
  },
  "AIZ": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 49066851,
    "totalDebt": 2208699904,
    "totalCash": 2078599936,
    "ebitda": 1760800000,
    "freeCashflow": 2532162560,
-   "trailingPE": 15.194744,
+   "trailingPE": 15.048508,
    "targetMeanPrice": 355.16666,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793739600,
+   "earningsTimestampStart": 1802206800,
    "earningsTimestamp": 1793739600,
    "fcf_annuels": [
     1598400000.0,
     1111400000.0,
     935600000.0
    ],
-   "prochains_resultats": "2026-11-03"
+   "prochains_resultats": "2027-02-09"
   }
  },
  "BAX": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 517348188,
    "totalDebt": 8807000064,
@@ -11011,26 +11011,26 @@
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793277000,
+   "earningsTimestampStart": 1802352600,
    "earningsTimestamp": 1793277000,
    "fcf_annuels": [
     323000000.0,
     559000000.0,
     1290000000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "NCLH": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 459275445,
    "totalDebt": 16026825728,
    "totalCash": 256508000,
    "ebitda": 2508570880,
    "freeCashflow": -1046450624,
-   "trailingPE": 9.944445,
-   "targetMeanPrice": 19.66667,
+   "trailingPE": 9.447515,
+   "targetMeanPrice": 19.625,
    "sector": "Consumer Cyclical",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -11045,14 +11045,14 @@
   }
  },
  "IT": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 63081351,
    "totalDebt": 3313460992,
    "totalCash": 1633137024,
    "ebitda": 1420947968,
    "freeCashflow": 1067743104,
-   "trailingPE": 13.768723,
+   "trailingPE": 12.593007,
    "targetMeanPrice": 201.46153,
    "sector": "Technology",
    "financialCurrency": "USD",
@@ -11068,15 +11068,15 @@
   }
  },
  "BXP": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 159713264,
    "totalDebt": 17325688832,
    "totalCash": 1481635968,
    "ebitda": 1658919040,
    "freeCashflow": 1114296960,
-   "trailingPE": 19.077612,
-   "targetMeanPrice": 73.3,
+   "trailingPE": 18.435293,
+   "targetMeanPrice": 73.0,
    "sector": "Real Estate",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -11091,14 +11091,14 @@
   }
  },
  "AOS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 108468717,
    "totalDebt": 715000000,
    "totalCash": 234500000,
    "ebitda": 785699968,
    "freeCashflow": 430500000,
-   "trailingPE": 17.949438,
+   "trailingPE": 18.421787,
    "targetMeanPrice": 66.5,
    "sector": "Industrials",
    "financialCurrency": "USD",
@@ -11114,15 +11114,15 @@
   }
  },
  "APA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 335756005,
    "totalDebt": 3425999872,
    "totalCash": 75000000,
    "ebitda": 6370999808,
    "freeCashflow": 2110249984,
-   "trailingPE": 7.870216,
-   "targetMeanPrice": 50.30769,
+   "trailingPE": 7.3024387,
+   "targetMeanPrice": 50.34615,
    "sector": "Energy",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -11137,99 +11137,99 @@
   }
  },
  "DVA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 62900000,
    "totalDebt": 13392425984,
    "totalCash": 566302016,
    "ebitda": 2846491904,
    "freeCashflow": 905084352,
-   "trailingPE": 13.218513,
+   "trailingPE": 12.427706,
    "targetMeanPrice": 222.2857,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793304000,
+   "earningsTimestampStart": 1801515600,
    "earningsTimestamp": 1793304000,
    "fcf_annuels": [
     1310636000.0,
     1466595000.0,
     1491046000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-01"
   }
  },
  "MGM": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 253010547,
    "totalDebt": 29731098624,
    "totalCash": 2609344000,
    "ebitda": 2128648960,
    "freeCashflow": 889266624,
-   "trailingPE": 12.879846,
-   "targetMeanPrice": 37.89474,
+   "trailingPE": 12.950943,
+   "targetMeanPrice": 37.84211,
    "sector": "Consumer Cyclical",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793217600,
+   "earningsTimestampStart": 1801774800,
    "earningsTimestamp": 1793217600,
    "fcf_annuels": [
     1460451000.0,
     1211906000.0,
     1758964000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "TAP": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 173017657,
    "totalDebt": 6195100160,
    "totalCash": 605900032,
    "ebitda": 2171500032,
    "freeCashflow": 897524992,
-   "trailingPE": 8.881466,
-   "targetMeanPrice": 42.66667,
+   "trailingPE": 8.643777,
+   "targetMeanPrice": 42.38095,
    "sector": "Consumer Defensive",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793885400,
+   "earningsTimestampStart": 1802871000,
    "earningsTimestamp": 1793885400,
    "fcf_annuels": [
     1067800000.0,
     1236200000.0,
     1407500000.0
    ],
-   "prochains_resultats": "2026-11-05"
+   "prochains_resultats": "2027-02-17"
   }
  },
  "HSIC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 110538542,
    "totalDebt": 3891000064,
    "totalCash": 184000000,
    "ebitda": 1096999936,
    "freeCashflow": 465375008,
-   "trailingPE": 23.6,
-   "targetMeanPrice": 96.6,
+   "trailingPE": 23.975342,
+   "targetMeanPrice": 96.86667,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793712600,
+   "earningsTimestampStart": 1803389400,
    "earningsTimestamp": 1793712600,
    "fcf_annuels": [
     521000000.0,
     661000000.0,
     313000000.0
    ],
-   "prochains_resultats": "2026-11-03"
+   "prochains_resultats": "2027-02-23"
   }
  },
  "MOS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 317903655,
    "totalDebt": 6125000192,
@@ -11237,45 +11237,45 @@
    "ebitda": 1223900032,
    "freeCashflow": -512462496,
    "trailingPE": null,
-   "targetMeanPrice": 25.16111,
+   "targetMeanPrice": 25.11111,
    "sector": "Basic Materials",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793739600,
+   "earningsTimestampStart": 1803416400,
    "earningsTimestamp": 1793739600,
    "fcf_annuels": [
     -534600000.0,
     47400000.0,
     1004800000.0
    ],
-   "prochains_resultats": "2026-11-03"
+   "prochains_resultats": "2027-02-23"
   }
  },
  "FRT": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 86021559,
    "totalDebt": 4966979072,
    "totalCash": 121630000,
    "ebitda": 849593984,
    "freeCashflow": 436163744,
-   "trailingPE": 22.572275,
-   "targetMeanPrice": 127.0,
+   "trailingPE": 22.111984,
+   "targetMeanPrice": 127.10526,
    "sector": "Real Estate",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793363400,
+   "earningsTimestampStart": 1802352600,
    "earningsTimestamp": 1793363400,
    "fcf_annuels": [
     331040000.0,
     327803000.0,
     244710000.0
    ],
-   "prochains_resultats": "2026-10-30"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "ARE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 174160645,
    "totalDebt": 13251023872,
@@ -11283,7 +11283,7 @@
    "ebitda": 1698887936,
    "freeCashflow": 1289590528,
    "trailingPE": null,
-   "targetMeanPrice": 48.5,
+   "targetMeanPrice": 47.85714,
    "sector": "Real Estate",
    "financialCurrency": "USD",
    "currency": "USD",
@@ -11298,14 +11298,14 @@
   }
  },
  "SWKS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 234854620,
    "totalDebt": 2651200000,
    "totalCash": 2606099968,
    "ebitda": 888099968,
    "freeCashflow": 307487488,
-   "trailingPE": 78.63636,
+   "trailingPE": 71.00877,
    "targetMeanPrice": 79.11111,
    "sector": "Technology",
    "financialCurrency": "USD",
@@ -11321,30 +11321,30 @@
   }
  },
  "TECH": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 157090727,
    "totalDebt": 285555008,
    "totalCash": 351128000,
    "ebitda": 325379008,
    "freeCashflow": 277756992,
-   "trailingPE": 66.779816,
+   "trailingPE": 66.798164,
    "targetMeanPrice": 70.5,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1794231000,
+   "earningsTimestampStart": 1802206800,
    "earningsTimestamp": null,
    "fcf_annuels": [
     263223000.0,
     256550000.0,
     236104000.0
    ],
-   "prochains_resultats": "2026-11-09"
+   "prochains_resultats": "2027-02-09"
   }
  },
  "CAG": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 477411517,
    "totalDebt": 7760099840,
@@ -11367,60 +11367,60 @@
   }
  },
  "CRL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 47917467,
    "totalDebt": 2851930112,
    "totalCash": 200380992,
    "ebitda": 909380992,
    "freeCashflow": 443239616,
-   "trailingPE": 368.70328,
-   "targetMeanPrice": 350.57144,
+   "trailingPE": 369.37363,
+   "targetMeanPrice": 350.64285,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793799000,
+   "earningsTimestampStart": 1802871000,
    "earningsTimestamp": 1793799000,
    "fcf_annuels": [
     518494000.0,
     501610000.0,
     365370000.0
    ],
-   "prochains_resultats": "2026-11-04"
+   "prochains_resultats": "2027-02-17"
   }
  },
  "POOL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 35722100,
    "totalDebt": 1518736000,
    "totalCash": 109844000,
    "ebitda": 637894976,
    "freeCashflow": 360869120,
-   "trailingPE": 19.830067,
+   "trailingPE": 19.370472,
    "targetMeanPrice": 209.33333,
    "sector": "Industrials",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1792672200,
+   "earningsTimestampStart": 1802957400,
    "earningsTimestamp": 1792672200,
    "fcf_annuels": [
     309516000.0,
     599710000.0,
     828133000.0
    ],
-   "prochains_resultats": "2026-10-22"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "CPB": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 298956460,
    "totalDebt": 7449999872,
    "totalCash": 394000000,
    "ebitda": 1620000000,
    "freeCashflow": 634499968,
-   "trailingPE": 17.900764,
+   "trailingPE": 18.022902,
    "targetMeanPrice": 20.79412,
    "sector": "Consumer Defensive",
    "financialCurrency": "USD",
@@ -11436,7 +11436,7 @@
   }
  },
  "MOH": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 52200000,
    "totalDebt": 3950000128,
@@ -11448,48 +11448,48 @@
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1792612800,
-   "earningsTimestamp": 1792612800,
+   "earningsTimestampStart": 1801602000,
+   "earningsTimestamp": 1801602000,
    "fcf_annuels": [
     -636000000.0,
     544000000.0,
     1578000000.0
    ],
-   "prochains_resultats": "2026-10-21"
+   "prochains_resultats": "2027-02-02"
   }
  },
  "EPAM": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 51023335,
    "totalDebt": 146328000,
    "totalCash": 965172992,
    "ebitda": 772881024,
    "freeCashflow": 621603776,
-   "trailingPE": 20.481012,
+   "trailingPE": 19.789215,
    "targetMeanPrice": 172.88235,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793885400,
+   "earningsTimestampStart": 1802957400,
    "earningsTimestamp": 1793885400,
    "fcf_annuels": [
     612691000.0,
     527022000.0,
     534219000.0
    ],
-   "prochains_resultats": "2026-11-05"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "MTCH": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 227529464,
    "totalDebt": 3669479936,
    "totalCash": 729142016,
    "ebitda": 1169627008,
    "freeCashflow": 955099648,
-   "trailingPE": 14.208332,
+   "trailingPE": 13.776632,
    "targetMeanPrice": 45.0,
    "sector": "Communication Services",
    "financialCurrency": "USD",
@@ -11505,20 +11505,20 @@
   }
  },
  "FDS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 35255660,
    "totalDebt": 1542413952,
    "totalCash": 265332000,
    "ebitda": 900307968,
    "freeCashflow": 653727232,
-   "trailingPE": 22.798218,
+   "trailingPE": 22.012354,
    "targetMeanPrice": 306.1875,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "USD",
    "earningsTimestampStart": 1797514200,
-   "earningsTimestamp": 1790771400,
+   "earningsTimestamp": 1797514200,
    "fcf_annuels": [
     707480000.0,
     617454000.0,
@@ -11528,14 +11528,14 @@
   }
  },
  "LW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 137780447,
    "totalDebt": 3956699904,
    "totalCash": 166300000,
    "ebitda": 1069100032,
    "freeCashflow": 331775008,
-   "trailingPE": 30.552486,
+   "trailingPE": 28.51366,
    "targetMeanPrice": 55.69231,
    "sector": "Consumer Defensive",
    "financialCurrency": "USD",
@@ -11551,60 +11551,60 @@
   }
  },
  "PAYC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 45034789,
    "totalDebt": 823500032,
    "totalCash": 193900000,
    "ebitda": 834899968,
    "freeCashflow": 608312512,
-   "trailingPE": 23.78618,
+   "trailingPE": 23.217974,
    "targetMeanPrice": 271.0,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "USD",
-   "earningsTimestampStart": 1793826000,
+   "earningsTimestampStart": 1802293200,
    "earningsTimestamp": 1793826000,
    "fcf_annuels": [
     403500000.0,
     336600000.0,
     288200000.0
    ],
-   "prochains_resultats": "2026-11-04"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "ASML.AS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 385417742,
    "totalDebt": 1963000064,
    "totalCash": 12735099904,
    "ebitda": 16181000192,
    "freeCashflow": 10374124544,
-   "trailingPE": 37.35277,
+   "trailingPE": 37.39726,
    "targetMeanPrice": 2095.9395,
    "sector": "Technology",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1791991800,
-   "earningsTimestamp": 1791991800,
+   "earningsTimestampStart": 1801067400,
+   "earningsTimestamp": 1801067400,
    "fcf_annuels": [
     11027300000.0,
     9083100000.0,
     3247200000.0
    ],
-   "prochains_resultats": "2026-10-14"
+   "prochains_resultats": "2027-01-27"
   }
  },
  "RO.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 106691000,
    "totalDebt": 33308000256,
    "totalCash": 9733999616,
    "ebitda": 23964000256,
    "freeCashflow": 10317875200,
-   "trailingPE": 26.87865,
+   "trailingPE": 26.888454,
    "targetMeanPrice": 470.0,
    "sector": "Healthcare",
    "financialCurrency": "CHF",
@@ -11620,130 +11620,130 @@
   }
  },
  "NOVN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1888623572,
    "totalDebt": 48310001664,
    "totalCash": 8871999488,
    "ebitda": 24066000896,
    "freeCashflow": 11266124800,
-   "trailingPE": 32.094563,
-   "targetMeanPrice": 129.16951,
+   "trailingPE": 30.839329,
+   "targetMeanPrice": 128.19218,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "CHF",
-   "earningsTimestampStart": 1793118600,
-   "earningsTimestamp": 1793118600,
+   "earningsTimestampStart": 1801672200,
+   "earningsTimestamp": 1801672200,
    "fcf_annuels": [
     15244000000.0,
     13805000000.0,
     11705000000.0
    ],
-   "prochains_resultats": "2026-10-27"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "AZN.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1550917690,
    "totalDebt": 34325000192,
    "totalCash": 8166000128,
    "ebitda": 21280000000,
    "freeCashflow": 5628000256,
-   "trailingPE": 26.62998,
-   "targetMeanPrice": 16333.321,
+   "trailingPE": 26.436434,
+   "targetMeanPrice": 16383.121,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "GBp",
-   "earningsTimestampStart": 1793377800,
+   "earningsTimestampStart": 1802190600,
    "earningsTimestamp": 1793377800,
    "fcf_annuels": [
     8670000000.0,
     7275000000.0,
     6567000000.0
    ],
-   "prochains_resultats": "2026-10-30"
+   "prochains_resultats": "2027-02-09"
   }
  },
  "NESN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 2572220000,
    "totalDebt": 62845001728,
    "totalCash": 6134000128,
    "ebitda": 16458999808,
    "freeCashflow": 4374249984,
-   "trailingPE": 30.386208,
+   "trailingPE": 29.85467,
    "targetMeanPrice": 89.03636,
    "sector": "Consumer Defensive",
    "financialCurrency": "CHF",
    "currency": "CHF",
-   "earningsTimestampStart": 1771518600,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802968200,
+   "earningsTimestamp": 1802968200,
    "fcf_annuels": [
     10993000000.0,
     10712000000.0,
     9738000000.0
    ],
-   "prochains_resultats": "2026-02-19"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "SAP.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1154204232,
    "totalDebt": 10588000256,
    "totalCash": 10997000192,
    "ebitda": 12254000128,
    "freeCashflow": 10038750208,
-   "trailingPE": 30.882778,
+   "trailingPE": 27.507961,
    "targetMeanPrice": 243.54222,
    "sector": "Technology",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1792596600,
-   "earningsTimestamp": 1792596600,
+   "earningsTimestampStart": 1801153800,
+   "earningsTimestamp": 1801153800,
    "fcf_annuels": [
     8417000000.0,
     4410000000.0,
     5461000000.0
    ],
-   "prochains_resultats": "2026-10-21"
+   "prochains_resultats": "2027-01-28"
   }
  },
  "SU.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 587633141,
    "totalDebt": 20809000960,
    "totalCash": 4518000128,
    "ebitda": 8520999936,
    "freeCashflow": 5374750208,
-   "trailingPE": 29.032454,
+   "trailingPE": 27.175482,
    "targetMeanPrice": 323.48477,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1785425400,
+   "earningsTimestampStart": 1802968200,
    "earningsTimestamp": null,
    "fcf_annuels": [
     4588000000.0,
     4161000000.0,
     4542000000.0
    ],
-   "prochains_resultats": "2026-07-30"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "ALV.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 373994237,
    "totalDebt": 0,
    "totalCash": 25653999616,
    "ebitda": 19975249920,
    "freeCashflow": null,
-   "trailingPE": 15.570118,
-   "targetMeanPrice": 451.72015,
+   "trailingPE": 14.918086,
+   "targetMeanPrice": 455.48486,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -11758,38 +11758,38 @@
   }
  },
  "ULVR.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 2153366959,
    "totalDebt": 32110000128,
    "totalCash": 5943000064,
    "ebitda": 10876000256,
    "freeCashflow": 6732624896,
-   "trailingPE": 13.680217,
-   "targetMeanPrice": 5270.945,
+   "trailingPE": 13.430895,
+   "targetMeanPrice": 5281.9385,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
    "currency": "GBp",
-   "earningsTimestampStart": 1770913800,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802363400,
+   "earningsTimestamp": 1802363400,
    "fcf_annuels": [
     6759000000.0,
     7905000000.0,
     7991000000.0
    ],
-   "prochains_resultats": "2026-02-12"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "DTE.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 4782610264,
    "totalDebt": 145693999104,
    "totalCash": 8220000256,
    "ebitda": 43863998464,
    "freeCashflow": 28694249472,
-   "trailingPE": 14.516129,
-   "targetMeanPrice": 35.92222,
+   "trailingPE": 14.736263,
+   "targetMeanPrice": 35.81111,
    "sector": "Communication Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -11804,153 +11804,153 @@
   }
  },
  "ABBN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 1810048704,
+   "sharesOutstanding": 1804437894,
    "totalDebt": 8672000000,
    "totalCash": 6288000000,
    "ebitda": 7369999872,
    "freeCashflow": 2043624960,
-   "trailingPE": 31.463636,
-   "targetMeanPrice": 83.610275,
+   "trailingPE": 29.745455,
+   "targetMeanPrice": 81.57164,
    "sector": "Industrials",
    "financialCurrency": "USD",
    "currency": "CHF",
-   "earningsTimestampStart": 1792510200,
-   "earningsTimestamp": 1792510200,
+   "earningsTimestampStart": 1801153800,
+   "earningsTimestamp": 1801153800,
    "fcf_annuels": [
     4468000000.0,
     3876000000.0,
     3520000000.0
    ],
-   "prochains_resultats": "2026-10-20"
+   "prochains_resultats": "2027-01-28"
   }
  },
  "BBVA.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 5470660457,
+   "sharesOutstanding": 5454903940,
    "totalDebt": 202106994688,
    "totalCash": 171946999808,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 12.005102,
-   "targetMeanPrice": 24.48727,
+   "trailingPE": 11.486912,
+   "targetMeanPrice": 24.62591,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793291400,
-   "earningsTimestamp": 1793291400,
+   "earningsTimestampStart": 1801758600,
+   "earningsTimestamp": 1801758600,
    "fcf_annuels": [
     13162000000.0,
     -20201000000.0,
     -2540000000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "GSK.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 4008939182,
+   "sharesOutstanding": 4030951066,
    "totalDebt": 23801999360,
    "totalCash": 2961999872,
    "ebitda": 11491999744,
    "freeCashflow": 5553500160,
-   "trailingPE": 18.03271,
+   "trailingPE": 17.76168,
    "targetMeanPrice": 2147.381,
    "sector": "Healthcare",
    "financialCurrency": "GBP",
    "currency": "GBp",
-   "earningsTimestampStart": 1793205000,
+   "earningsTimestampStart": 1801672200,
    "earningsTimestamp": 1793205000,
    "fcf_annuels": [
     4756000000.0,
     3572000000.0,
     4424000000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "BNP.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1096000000,
    "totalDebt": 730617020416,
    "totalCash": 1264931962880,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 8.3499565,
-   "targetMeanPrice": 120.70842,
+   "trailingPE": 7.8985124,
+   "targetMeanPrice": 121.07684,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793205000,
-   "earningsTimestamp": 1793205000,
+   "earningsTimestampStart": 1801585800,
+   "earningsTimestamp": 1801585800,
    "fcf_annuels": [
     43696000000.0,
     -99512000000.0,
     -36457000000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-02"
   }
  },
  "OR.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 533314966,
    "totalDebt": 16712599552,
    "totalCash": 4048800000,
    "ebitda": 10349500416,
    "freeCashflow": 6398387712,
-   "trailingPE": 38.213074,
-   "targetMeanPrice": 437.375,
+   "trailingPE": 37.427845,
+   "targetMeanPrice": 439.54166,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1770913800,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802363400,
+   "earningsTimestamp": 1802363400,
    "fcf_annuels": [
     7161600000.0,
     6644300000.0,
     6115900000.0
    ],
-   "prochains_resultats": "2026-02-12"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "ZURN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 149369269,
    "totalDebt": 15358000128,
    "totalCash": 32480000000,
    "ebitda": 11377000448,
    "freeCashflow": -445500000,
-   "trailingPE": 16.724224,
-   "targetMeanPrice": 622.36865,
+   "trailingPE": 16.233734,
+   "targetMeanPrice": 635.1441,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "CHF",
-   "earningsTimestampStart": 1786030200,
+   "earningsTimestampStart": 1802968200,
    "earningsTimestamp": null,
    "fcf_annuels": [
     5423000000.0,
     7233000000.0,
     6927000000.0
    ],
-   "prochains_resultats": "2026-08-06"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "SAN.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1200606331,
    "totalDebt": 19844999168,
    "totalCash": 5966000128,
    "ebitda": 14773000192,
    "freeCashflow": 8273750016,
-   "trailingPE": 25.52601,
-   "targetMeanPrice": 96.35652,
+   "trailingPE": 26.660969,
+   "targetMeanPrice": 97.72381,
    "sector": "Healthcare",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -11965,15 +11965,15 @@
   }
  },
  "ISP.MI": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 17301167808,
    "totalDebt": 105694003200,
    "totalCash": 129829003264,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 11.014035,
-   "targetMeanPrice": 7.455,
+   "trailingPE": 9.803449,
+   "targetMeanPrice": 7.49769,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -11988,38 +11988,38 @@
   }
  },
  "DG.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 550097470,
    "totalDebt": 41346998272,
    "totalCash": 15564000256,
    "ebitda": 12780000256,
    "freeCashflow": 8071124992,
-   "trailingPE": 12.791343,
+   "trailingPE": 12.402885,
    "targetMeanPrice": 140.35,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1785339000,
+   "earningsTimestampStart": 1801845000,
    "earningsTimestamp": null,
    "fcf_annuels": [
     8013000000.0,
     7662000000.0,
     7208000000.0
    ],
-   "prochains_resultats": "2026-07-29"
+   "prochains_resultats": "2027-02-05"
   }
  },
  "CS.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 2091096997,
+   "sharesOutstanding": 2023296997,
    "totalDebt": 61108998144,
    "totalCash": 99860996096,
    "ebitda": null,
    "freeCashflow": -26394499072,
-   "trailingPE": 12.606469,
-   "targetMeanPrice": 52.0225,
+   "trailingPE": 12.117647,
+   "targetMeanPrice": 52.11625,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12034,60 +12034,61 @@
   }
  },
  "RMS.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 104602982,
    "totalDebt": 2280000000,
    "totalCash": 12309999616,
    "ebitda": 7056000000,
    "freeCashflow": 4914625024,
-   "trailingPE": 31.38372,
-   "targetMeanPrice": 1555.4292,
+   "trailingPE": 29.04574,
+   "targetMeanPrice": 1540.6375,
    "sector": "Consumer Cyclical",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": null,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802449800,
+   "earningsTimestamp": 1802449800,
    "fcf_annuels": [
     4213000000.0,
     4072000000.0,
     3469000000.0
-   ]
+   ],
+   "prochains_resultats": "2027-02-12"
   }
  },
  "LLOY.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 56942352683,
+   "sharesOutstanding": 56742118963,
    "totalDebt": 168198995968,
    "totalCash": 334627995648,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 9.814,
-   "targetMeanPrice": 116.315994,
+   "trailingPE": 9.492,
+   "targetMeanPrice": 115.15,
    "sector": "Financial Services",
    "financialCurrency": "GBP",
    "currency": "GBp",
-   "earningsTimestampStart": 1793291400,
-   "earningsTimestamp": 1793291400,
+   "earningsTimestampStart": 1801758600,
+   "earningsTimestamp": 1801758600,
    "fcf_annuels": [
     -622000000.0,
     -10016000000.0,
     1355000000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "ITX.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 3115009210,
    "totalDebt": 6198000128,
    "totalCash": 10398999552,
    "ebitda": 9771635712,
    "freeCashflow": 6487897600,
-   "trailingPE": 29.271845,
-   "targetMeanPrice": 60.38958,
+   "trailingPE": 28.300972,
+   "targetMeanPrice": 60.93958,
    "sector": "Consumer Cyclical",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12102,83 +12103,83 @@
   }
  },
  "REL.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 1734691514,
+   "sharesOutstanding": 1733368490,
    "totalDebt": 8906000384,
    "totalCash": 220000000,
    "ebitda": 3292000000,
    "freeCashflow": 2232375040,
-   "trailingPE": 24.528,
-   "targetMeanPrice": 3509.118,
+   "trailingPE": 24.184,
+   "targetMeanPrice": 3520.882,
    "sector": "Industrials",
    "financialCurrency": "GBP",
    "currency": "GBp",
-   "earningsTimestampStart": 1784820600,
+   "earningsTimestampStart": 1802363400,
    "earningsTimestamp": null,
    "fcf_annuels": [
     2311000000.0,
     2124000000.0,
     1980000000.0
    ],
-   "prochains_resultats": "2026-07-23"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "NWG.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 7890220338,
    "totalDebt": 141152993280,
    "totalCash": 232877998080,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 8.045946,
-   "targetMeanPrice": 775.88904,
+   "trailingPE": 7.8729725,
+   "targetMeanPrice": 777.105,
    "sector": "Financial Services",
    "financialCurrency": "GBP",
    "currency": "GBp",
-   "earningsTimestampStart": 1793377800,
-   "earningsTimestamp": 1793377800,
+   "earningsTimestampStart": 1802449800,
+   "earningsTimestamp": 1802449800,
    "fcf_annuels": [
     5790000000.0,
     694000000.0,
     -18993000000.0
    ],
-   "prochains_resultats": "2026-10-30"
+   "prochains_resultats": "2027-02-12"
   }
  },
  "NDA-FI.HE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 3393753656,
    "totalDebt": 237767000064,
    "totalCash": 66088001536,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 12.452555,
-   "targetMeanPrice": 18.56875,
+   "trailingPE": 11.937956,
+   "targetMeanPrice": 18.74375,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1792078200,
-   "earningsTimestamp": 1792078200,
+   "earningsTimestampStart": 1801153800,
+   "earningsTimestamp": 1801153800,
    "fcf_annuels": [
     -3820000000.0,
     346000000.0,
     -7002000000.0
    ],
-   "prochains_resultats": "2026-10-15"
+   "prochains_resultats": "2027-01-28"
   }
  },
  "LSEG.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 478330878,
+   "sharesOutstanding": 477290525,
    "totalDebt": 13546999808,
    "totalCash": 4241999872,
    "ebitda": 3144000000,
    "freeCashflow": 1719250048,
-   "trailingPE": 35.568344,
+   "trailingPE": 35.834534,
    "targetMeanPrice": 11877.5,
    "sector": "Financial Services",
    "financialCurrency": "GBP",
@@ -12194,37 +12195,37 @@
   }
  },
  "DB1.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 178187660,
    "totalDebt": 8242999808,
    "totalCash": null,
    "ebitda": 3476999936,
    "freeCashflow": null,
-   "trailingPE": 27.20892,
-   "targetMeanPrice": 312.14285,
+   "trailingPE": 26.127169,
+   "targetMeanPrice": 320.64285,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1792510200,
-   "earningsTimestamp": 1792510200,
+   "earningsTimestampStart": 1802277000,
+   "earningsTimestamp": 1802277000,
    "fcf_annuels": [
     2430000000.0,
     2050000000.0,
     2281200000.0
    ],
-   "prochains_resultats": "2026-10-20"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "BN.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 644095494,
    "totalDebt": 17426999296,
    "totalCash": 8338999808,
    "ebitda": 4511000064,
    "freeCashflow": 2077500032,
-   "trailingPE": 23.397352,
+   "trailingPE": 22.664474,
    "targetMeanPrice": 78.79545,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
@@ -12240,15 +12241,15 @@
   }
  },
  "RKT.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 633105043,
+   "sharesOutstanding": 632874234,
    "totalDebt": 10254000128,
    "totalCash": 878000000,
    "ebitda": 3590000128,
    "freeCashflow": 3094000128,
-   "trailingPE": 13.013513,
-   "targetMeanPrice": 6270.105,
+   "trailingPE": 12.769576,
+   "targetMeanPrice": 6296.421,
    "sector": "Consumer Defensive",
    "financialCurrency": "GBP",
    "currency": "GBp",
@@ -12263,15 +12264,15 @@
   }
  },
  "SREN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 294919585,
    "totalDebt": 8892999680,
    "totalCash": 5394999808,
    "ebitda": 6631249920,
    "freeCashflow": null,
-   "trailingPE": 11.734459,
-   "targetMeanPrice": 130.00793,
+   "trailingPE": 11.711436,
+   "targetMeanPrice": 130.4148,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "CHF",
@@ -12286,61 +12287,61 @@
   }
  },
  "LONN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 69844229,
    "totalDebt": 4167000064,
    "totalCash": 487000000,
    "ebitda": 2390000128,
    "freeCashflow": -1567000064,
-   "trailingPE": 44.41352,
-   "targetMeanPrice": 719.65216,
+   "trailingPE": 43.644794,
+   "targetMeanPrice": 734.3913,
    "sector": "Healthcare",
    "financialCurrency": "CHF",
    "currency": "CHF",
-   "earningsTimestampStart": 1769617800,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1801067400,
+   "earningsTimestamp": 1801067400,
    "fcf_annuels": [
     -217000000.0,
     -143000000.0,
     -294000000.0
    ],
-   "prochains_resultats": "2026-01-28"
+   "prochains_resultats": "2027-01-27"
   }
  },
  "SAND.ST": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1254385923,
    "totalDebt": 43710001152,
    "totalCash": 4033999872,
    "ebitda": 32203999232,
    "freeCashflow": 13560975360,
-   "trailingPE": 23.366205,
-   "targetMeanPrice": 396.90475,
+   "trailingPE": 21.255753,
+   "targetMeanPrice": 399.75,
    "sector": "Industrials",
    "financialCurrency": "SEK",
    "currency": "SEK",
-   "earningsTimestampStart": 1792683000,
-   "earningsTimestamp": 1792683000,
+   "earningsTimestampStart": 1801067400,
+   "earningsTimestamp": 1801067400,
    "fcf_annuels": [
     15382000000.0,
     15766000000.0,
     13443000000.0
    ],
-   "prochains_resultats": "2026-10-22"
+   "prochains_resultats": "2027-01-27"
   }
  },
  "G.MI": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1500347767,
    "totalDebt": 41485000704,
    "totalCash": 7687000064,
    "ebitda": 8077000192,
    "freeCashflow": 4112624896,
-   "trailingPE": 15.118644,
-   "targetMeanPrice": 43.32737,
+   "trailingPE": 14.688136,
+   "targetMeanPrice": 44.01941,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12355,130 +12356,130 @@
   }
  },
  "LR.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 262096701,
    "totalDebt": 7668199936,
    "totalCash": 2297499904,
    "ebitda": 2392999936,
    "freeCashflow": 1155500032,
-   "trailingPE": 25.271029,
-   "targetMeanPrice": 171.44444,
+   "trailingPE": 24.578432,
+   "targetMeanPrice": 172.0,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793896200,
-   "earningsTimestamp": 1793896200,
+   "earningsTimestampStart": 1802277000,
+   "earningsTimestamp": 1802277000,
    "fcf_annuels": [
     1328100000.0,
     1283700000.0,
     1583100000.0
    ],
-   "prochains_resultats": "2026-11-05"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "NOKIA.HE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 5658935619,
    "totalDebt": 3374000128,
    "totalCash": 5006000128,
    "ebitda": 2755000064,
    "freeCashflow": 1290749952,
-   "trailingPE": 51.5,
+   "trailingPE": 47.585716,
    "targetMeanPrice": 10.53174,
    "sector": "Technology",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1792683000,
-   "earningsTimestamp": 1792683000,
+   "earningsTimestampStart": 1801153800,
+   "earningsTimestamp": 1801153800,
    "fcf_annuels": [
     1465000000.0,
     2021000000.0,
     665000000.0
    ],
-   "prochains_resultats": "2026-10-22"
+   "prochains_resultats": "2027-01-28"
   }
  },
  "ALC.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 480400000,
    "totalDebt": 5340000256,
    "totalCash": 1808000000,
    "ebitda": 2392000000,
    "freeCashflow": 1276249984,
-   "trailingPE": 57.00917,
-   "targetMeanPrice": 74.21354,
+   "trailingPE": 58.199997,
+   "targetMeanPrice": 73.65968,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "CHF",
-   "earningsTimestampStart": 1794328200,
+   "earningsTimestampStart": 1803400200,
    "earningsTimestamp": 1794328200,
    "fcf_annuels": [
     1608000000.0,
     1407000000.0,
     537000000.0
    ],
-   "prochains_resultats": "2026-11-10"
+   "prochains_resultats": "2027-02-23"
   }
  },
  "CABK.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 6940144432,
+   "sharesOutstanding": 6938152980,
    "totalDebt": 54370000896,
    "totalCash": 36864999424,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 13.380435,
-   "targetMeanPrice": 13.28048,
+   "trailingPE": 12.052631,
+   "targetMeanPrice": 13.30429,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1801153800,
-   "earningsTimestamp": 1793377800,
+   "earningsTimestampStart": 1801845000,
+   "earningsTimestamp": 1801845000,
    "fcf_annuels": [
     3439000000.0,
     16091000000.0,
     14943000000.0
    ],
-   "prochains_resultats": "2027-01-28"
+   "prochains_resultats": "2027-02-05"
   }
  },
  "ORA.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 2651421454,
    "totalDebt": 56751001600,
    "totalCash": 11459999744,
    "ebitda": 12103000064,
    "freeCashflow": 6392249856,
-   "trailingPE": 3.8472908,
-   "targetMeanPrice": 18.85,
+   "trailingPE": 3.7647784,
+   "targetMeanPrice": 18.80588,
    "sector": "Communication Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793118600,
-   "earningsTimestamp": 1793118600,
+   "earningsTimestampStart": 1802968200,
+   "earningsTimestamp": 1802968200,
    "fcf_annuels": [
     3313000000.0,
     3167000000.0,
     4092000000.0
    ],
-   "prochains_resultats": "2026-10-27"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "III.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 1013148371,
+   "sharesOutstanding": 1011775950,
    "totalDebt": null,
    "totalCash": null,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 7.1922007,
-   "targetMeanPrice": 3343.5452,
+   "trailingPE": 7.3816156,
+   "targetMeanPrice": 3253.5,
    "sector": null,
    "financialCurrency": "GBP",
    "currency": "GBp",
@@ -12493,15 +12494,15 @@
   }
  },
  "PRU.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 2443368899,
+   "sharesOutstanding": 2436015229,
    "totalDebt": 5919000064,
    "totalCash": 5888999936,
    "ebitda": 5922999808,
    "freeCashflow": 4138874880,
-   "trailingPE": 9.145284,
-   "targetMeanPrice": 1403.191,
+   "trailingPE": 8.786916,
+   "targetMeanPrice": 1407.9601,
    "sector": "Financial Services",
    "financialCurrency": "USD",
    "currency": "GBp",
@@ -12516,38 +12517,38 @@
   }
  },
  "SDZ.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 432692617,
    "totalDebt": 6202999808,
    "totalCash": 2270000128,
    "ebitda": 1567000064,
    "freeCashflow": 1368625024,
-   "trailingPE": 72.30769,
-   "targetMeanPrice": 81.50077,
+   "trailingPE": 69.31624,
+   "targetMeanPrice": 83.645,
    "sector": "Healthcare",
    "financialCurrency": "USD",
    "currency": "CHF",
-   "earningsTimestampStart": 1785943800,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802881800,
+   "earningsTimestamp": 1802881800,
    "fcf_annuels": [
     810000000.0,
     60000000.0,
     -263000000.0
    ],
-   "prochains_resultats": "2026-08-05"
+   "prochains_resultats": "2027-02-17"
   }
  },
  "PRY.MI": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 299274068,
    "totalDebt": 5814000128,
    "totalCash": 2862000128,
    "ebitda": 2052999936,
    "freeCashflow": 125750000,
-   "trailingPE": 26.778608,
-   "targetMeanPrice": 151.57143,
+   "trailingPE": 24.487562,
+   "targetMeanPrice": 151.7619,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12562,15 +12563,15 @@
   }
  },
  "EXPN.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 875983604,
-   "totalDebt": 5600999936,
-   "totalCash": 337000000,
-   "ebitda": 2540000000,
-   "freeCashflow": 911249984,
-   "trailingPE": 24.14754,
-   "targetMeanPrice": 3708.8962,
+   "sharesOutstanding": 876063405,
+   "totalDebt": 6274999808,
+   "totalCash": 267000000,
+   "ebitda": 2688999936,
+   "freeCashflow": 1022249984,
+   "trailingPE": 23.039062,
+   "targetMeanPrice": 3730.0745,
    "sector": "Industrials",
    "financialCurrency": "USD",
    "currency": "GBp",
@@ -12585,38 +12586,38 @@
   }
  },
  "DANSKE.CO": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 801987258,
+   "sharesOutstanding": 801754218,
    "totalDebt": 1589716058112,
    "totalCash": 679495008256,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 12.245032,
-   "targetMeanPrice": 416.73334,
+   "trailingPE": 12.033113,
+   "targetMeanPrice": 417.66666,
    "sector": "Financial Services",
    "financialCurrency": "DKK",
    "currency": "DKK",
-   "earningsTimestampStart": 1793289600,
-   "earningsTimestamp": 1793289600,
+   "earningsTimestampStart": 1801756800,
+   "earningsTimestamp": 1801756800,
    "fcf_annuels": [
     20550000000.0,
     -94729000000.0,
     140119000000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "SLHN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 27945498,
    "totalDebt": 16700999680,
    "totalCash": 89286000640,
    "ebitda": 2007000064,
    "freeCashflow": -9873375232,
-   "trailingPE": 21.6467,
-   "targetMeanPrice": 889.12726,
+   "trailingPE": 20.831882,
+   "targetMeanPrice": 890.4,
    "sector": "Financial Services",
    "financialCurrency": "CHF",
    "currency": "CHF",
@@ -12631,7 +12632,7 @@
   }
  },
  "VOD.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 23168639889,
    "totalDebt": 59121000448,
@@ -12639,7 +12640,7 @@
    "ebitda": 9420000256,
    "freeCashflow": 6395375104,
    "trailingPE": null,
-   "targetMeanPrice": 122.46246,
+   "targetMeanPrice": 121.19849,
    "sector": "Communication Services",
    "financialCurrency": "EUR",
    "currency": "GBp",
@@ -12654,15 +12655,15 @@
   }
  },
  "ADS.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 169062879,
    "totalDebt": 5984000000,
    "totalCash": 1651000064,
    "ebitda": 2958000128,
    "freeCashflow": 1745549952,
-   "trailingPE": 19.093851,
-   "targetMeanPrice": 198.46667,
+   "trailingPE": 18.93581,
+   "targetMeanPrice": 199.63333,
    "sector": "Consumer Cyclical",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12677,37 +12678,37 @@
   }
  },
  "GIVN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 9231317,
    "totalDebt": 4912000000,
    "totalCash": 316000000,
    "ebitda": 1582000000,
    "freeCashflow": 605625024,
-   "trailingPE": 39.822834,
-   "targetMeanPrice": 3749.5889,
+   "trailingPE": 39.892895,
+   "targetMeanPrice": 3833.5889,
    "sector": "Basic Materials",
    "financialCurrency": "CHF",
    "currency": "CHF",
-   "earningsTimestampStart": 1769704200,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1801067400,
+   "earningsTimestamp": 1801067400,
    "fcf_annuels": [
     1207000000.0,
     1332000000.0,
     1098000000.0
    ],
-   "prochains_resultats": "2026-01-29"
+   "prochains_resultats": "2027-01-27"
   }
  },
  "KNEBV.HE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 442074920,
    "totalDebt": 676899968,
    "totalCash": 1358599936,
    "ebitda": 1543000064,
    "freeCashflow": 1066700032,
-   "trailingPE": 30.789474,
+   "trailingPE": 30.231579,
    "targetMeanPrice": 60.02857,
    "sector": "Industrials",
    "financialCurrency": "EUR",
@@ -12723,15 +12724,15 @@
   }
  },
  "AMS.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 419991910,
    "totalDebt": 3500400128,
    "totalCash": 913100032,
    "ebitda": 2508800000,
    "freeCashflow": 1106249984,
-   "trailingPE": 20.398714,
-   "targetMeanPrice": 71.03727,
+   "trailingPE": 19.588425,
+   "targetMeanPrice": 70.86174,
    "sector": "Technology",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12746,15 +12747,15 @@
   }
  },
  "BMW.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 591133711,
    "totalDebt": 118646996992,
    "totalCash": 15932000256,
    "ebitda": 13326999552,
    "freeCashflow": 3478267904,
-   "trailingPE": 5.636004,
-   "targetMeanPrice": 67.03684,
+   "trailingPE": 5.2680516,
+   "targetMeanPrice": 66.77368,
    "sector": "Consumer Cyclical",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12769,15 +12770,15 @@
   }
  },
  "SAMPO.HE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 2616847806,
    "totalDebt": 2628000000,
    "totalCash": 18282999808,
-   "ebitda": 1875000064,
-   "freeCashflow": 892875008,
-   "trailingPE": 21.98913,
-   "targetMeanPrice": 10.88667,
+   "ebitda": 1756999936,
+   "freeCashflow": 775875008,
+   "trailingPE": 21.595652,
+   "targetMeanPrice": 10.93667,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12792,14 +12793,14 @@
   }
  },
  "GEBN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 32358401,
    "totalDebt": 1490000000,
    "totalCash": 155600000,
    "ebitda": 933699968,
    "freeCashflow": null,
-   "trailingPE": 31.049839,
+   "trailingPE": 30.9544,
    "targetMeanPrice": 584.73334,
    "sector": "Industrials",
    "financialCurrency": "CHF",
@@ -12815,38 +12816,38 @@
   }
  },
  "DNB.OL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 1419231796,
+   "sharesOutstanding": 1417321796,
    "totalDebt": 1510116032512,
    "totalCash": 478097014784,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 12.142329,
-   "targetMeanPrice": 331.4375,
+   "trailingPE": 11.972713,
+   "targetMeanPrice": 334.1875,
    "sector": "Financial Services",
    "financialCurrency": "NOK",
    "currency": "NOK",
-   "earningsTimestampStart": 1792592400,
-   "earningsTimestamp": 1792592400,
+   "earningsTimestampStart": 1801754400,
+   "earningsTimestamp": 1801754400,
    "fcf_annuels": [
     69928000000.0,
     -159121000000.0,
     43000000.0
    ],
-   "prochains_resultats": "2026-10-21"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "ACS.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 260074584,
+   "sharesOutstanding": 259974536,
    "totalDebt": 14428000256,
    "totalCash": 11918000128,
    "ebitda": 2458636032,
    "freeCashflow": 1300349312,
-   "trailingPE": 19.879913,
-   "targetMeanPrice": 128.53824,
+   "trailingPE": 16.991787,
+   "targetMeanPrice": 128.53235,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12861,15 +12862,15 @@
   }
  },
  "VWS.CO": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 969587759,
+   "sharesOutstanding": 968737759,
    "totalDebt": 3492999936,
    "totalCash": 3507000064,
    "ebitda": 2220000000,
    "freeCashflow": 107875000,
-   "trailingPE": 23.243729,
-   "targetMeanPrice": 216.70792,
+   "trailingPE": 19.5,
+   "targetMeanPrice": 220.22003,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "DKK",
@@ -12884,61 +12885,61 @@
   }
  },
  "SCMN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 51801943,
    "totalDebt": 16101000192,
    "totalCash": 986000000,
    "ebitda": 4303000064,
    "freeCashflow": 2929870080,
-   "trailingPE": 29.023218,
+   "trailingPE": 28.121307,
    "targetMeanPrice": 575.2941,
    "sector": "Communication Services",
    "financialCurrency": "CHF",
    "currency": "CHF",
-   "earningsTimestampStart": 1793896200,
-   "earningsTimestamp": 1793896200,
+   "earningsTimestampStart": 1802363400,
+   "earningsTimestamp": 1802363400,
    "fcf_annuels": [
     3004000000.0,
     2099000000.0,
     1757000000.0
    ],
-   "prochains_resultats": "2026-11-05"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "PHIA.AS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 977614000,
    "totalDebt": 8138999808,
    "totalCash": 2751000064,
    "ebitda": 2203000064,
    "freeCashflow": 1848625024,
-   "trailingPE": 67.17074,
-   "targetMeanPrice": 28.025,
+   "trailingPE": 27.080807,
+   "targetMeanPrice": 28.05,
    "sector": "Healthcare",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793723400,
+   "earningsTimestampStart": 1802190600,
    "earningsTimestamp": 1793723400,
    "fcf_annuels": [
     504000000.0,
     893000000.0,
     1492000000.0
    ],
-   "prochains_resultats": "2026-11-03"
+   "prochains_resultats": "2027-02-09"
   }
  },
  "FRE.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": null,
+   "sharesOutstanding": 563237277,
    "totalDebt": 11840000000,
    "totalCash": 1715000064,
    "ebitda": 3097400064,
    "freeCashflow": 352750016,
-   "trailingPE": 19.09929,
-   "targetMeanPrice": 57.72857,
+   "trailingPE": 18.52817,
+   "targetMeanPrice": 58.83571,
    "sector": "Healthcare",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -12953,60 +12954,60 @@
   }
  },
  "ACA.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 3024345732,
-   "totalDebt": 518259998720,
+   "totalDebt": 518300008448,
    "totalCash": 894700027904,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 8.086735,
-   "targetMeanPrice": 20.87667,
+   "trailingPE": 7.425121,
+   "targetMeanPrice": 20.82,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793377800,
-   "earningsTimestamp": 1793377800,
+   "earningsTimestampStart": 1801758600,
+   "earningsTimestamp": 1801758600,
    "fcf_annuels": [
     17895000000.0,
     -16979000000.0,
     -37397000000.0
    ],
-   "prochains_resultats": "2026-10-30"
+   "prochains_resultats": "2027-02-04"
   }
  },
  "CAP.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 163302200,
    "totalDebt": 10186000384,
    "totalCash": 2279000064,
    "ebitda": 3083000064,
    "freeCashflow": 1901874944,
-   "trailingPE": 15.946633,
+   "trailingPE": 15.241423,
    "targetMeanPrice": 150.90765,
    "sector": "Technology",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1785425400,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802795400,
+   "earningsTimestamp": 1802795400,
    "fcf_annuels": [
     2195000000.0,
     2211000000.0,
     2266000000.0
    ],
-   "prochains_resultats": "2026-07-30"
+   "prochains_resultats": "2027-02-16"
   }
  },
  "VNA.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 848458878,
    "totalDebt": 42685599744,
    "totalCash": 1362499968,
    "ebitda": 2320900096,
    "freeCashflow": 256924992,
-   "trailingPE": 9.138587,
+   "trailingPE": 9.4805565,
    "targetMeanPrice": 22.31333,
    "sector": "Real Estate",
    "financialCurrency": "EUR",
@@ -13022,15 +13023,15 @@
   }
  },
  "A5G.IR": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 2094100000,
    "totalDebt": 12490999808,
    "totalCash": 42274000896,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 12.015463,
-   "targetMeanPrice": 11.96462,
+   "trailingPE": 11.427084,
+   "targetMeanPrice": 12.13769,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13045,38 +13046,38 @@
   }
  },
  "KER.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 122651328,
+   "sharesOutstanding": 122648328,
    "totalDebt": 17906999296,
    "totalCash": 8480000000,
    "ebitda": 2516999936,
    "freeCashflow": 2548875008,
    "trailingPE": null,
-   "targetMeanPrice": 240.41537,
+   "targetMeanPrice": 239.26154,
    "sector": "Consumer Cyclical",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1785252600,
+   "earningsTimestampStart": 1802277000,
    "earningsTimestamp": null,
    "fcf_annuels": [
     2270000000.0,
     1400000000.0,
     1848000000.0
    ],
-   "prochains_resultats": "2026-07-28"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "STMPA.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 893548818,
+   "sharesOutstanding": 892920905,
    "totalDebt": 3427000064,
    "totalCash": 5312000000,
    "ebitda": 3012999936,
    "freeCashflow": 110000000,
-   "trailingPE": 83.81632,
-   "targetMeanPrice": 64.89328,
+   "trailingPE": 73.306114,
+   "targetMeanPrice": 63.766655,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "EUR",
@@ -13091,14 +13092,14 @@
   }
  },
  "KPN.AS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 3772121708,
    "totalDebt": 7201999872,
    "totalCash": 286000000,
    "ebitda": 2408999936,
    "freeCashflow": 1110875008,
-   "trailingPE": 20.522726,
+   "trailingPE": 19.736364,
    "targetMeanPrice": 4.539,
    "sector": "Communication Services",
    "financialCurrency": "EUR",
@@ -13114,61 +13115,61 @@
   }
  },
  "ANTO.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 985856695,
    "totalDebt": 8126199808,
    "totalCash": 4160100096,
    "ebitda": 5425399808,
    "freeCashflow": 574662528,
-   "trailingPE": 24.392,
-   "targetMeanPrice": 3843.8398,
+   "trailingPE": 20.368,
+   "targetMeanPrice": 3814.858,
    "sector": "Basic Materials",
    "financialCurrency": "USD",
    "currency": "GBp",
-   "earningsTimestampStart": 1786635000,
+   "earningsTimestampStart": 1802795400,
    "earningsTimestamp": null,
    "fcf_annuels": [
     -612900000.0,
     -129300000.0,
     203800000.0
    ],
-   "prochains_resultats": "2026-08-13"
+   "prochains_resultats": "2027-02-16"
   }
  },
  "BOL.ST": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 283962452,
    "totalDebt": 23576000512,
    "totalCash": 5809999872,
    "ebitda": 28746999808,
    "freeCashflow": 624374976,
-   "trailingPE": 9.715424,
-   "targetMeanPrice": 570.93335,
+   "trailingPE": 8.959205,
+   "targetMeanPrice": 564.26666,
    "sector": "Basic Materials",
    "financialCurrency": "SEK",
    "currency": "SEK",
-   "earningsTimestampStart": 1793291400,
-   "earningsTimestamp": 1793291400,
+   "earningsTimestampStart": 1801672200,
+   "earningsTimestamp": 1801672200,
    "fcf_annuels": [
     5191000000.0,
     2671000000.0,
     -3348000000.0
    ],
-   "prochains_resultats": "2026-10-29"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "ABN.AS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 814935713,
    "totalDebt": 119395000320,
    "totalCash": 43469000704,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 13.153125,
-   "targetMeanPrice": 46.64737,
+   "trailingPE": 12.16875,
+   "targetMeanPrice": 47.18421,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13183,15 +13184,15 @@
   }
  },
  "WKL.AS": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 222434115,
+   "sharesOutstanding": 222433563,
    "totalDebt": 5548000256,
    "totalCash": 1494000000,
    "ebitda": 1947000064,
    "freeCashflow": 1247874944,
-   "trailingPE": 15.528205,
-   "targetMeanPrice": 96.3125,
+   "trailingPE": 15.255732,
+   "targetMeanPrice": 96.875,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13206,15 +13207,15 @@
   }
  },
  "LGEN.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 5327236898,
+   "sharesOutstanding": 5295657658,
    "totalDebt": 26563999744,
    "totalCash": 14517000192,
    "ebitda": 1268999936,
    "freeCashflow": 7687000064,
-   "trailingPE": 27.763636,
-   "targetMeanPrice": 273.77402,
+   "trailingPE": 26.872728,
+   "targetMeanPrice": 273.241,
    "sector": "Financial Services",
    "financialCurrency": "GBP",
    "currency": "GBp",
@@ -13229,15 +13230,15 @@
   }
  },
  "SAB.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 4684083796,
+   "sharesOutstanding": 4680778488,
    "totalDebt": 26038999040,
    "totalCash": 10476000256,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 15.04,
-   "targetMeanPrice": 3.69825,
+   "trailingPE": 14.048,
+   "targetMeanPrice": 3.71075,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13252,15 +13253,15 @@
   }
  },
  "CLNX.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 655983551,
+   "sharesOutstanding": 655498200,
    "totalDebt": 22126999552,
    "totalCash": 1503000064,
    "ebitda": 2591459072,
    "freeCashflow": null,
    "trailingPE": null,
-   "targetMeanPrice": 34.35217,
+   "targetMeanPrice": 34.17826,
    "sector": "Real Estate",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13275,15 +13276,15 @@
   }
  },
  "MRK.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 129242252,
    "totalDebt": 11992000512,
    "totalCash": 4272000000,
    "ebitda": 6056000000,
    "freeCashflow": 2230249984,
-   "trailingPE": 33.86878,
-   "targetMeanPrice": 156.85715,
+   "trailingPE": 33.766968,
+   "targetMeanPrice": 160.0,
    "sector": "Healthcare",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13298,37 +13299,37 @@
   }
  },
  "ALFA.ST": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 413326315,
    "totalDebt": 21023000576,
    "totalCash": 7209999872,
    "ebitda": 14044000256,
    "freeCashflow": 5839000064,
-   "trailingPE": 27.73604,
+   "trailingPE": 26.781723,
    "targetMeanPrice": 595.1177,
    "sector": "Industrials",
    "financialCurrency": "SEK",
    "currency": "SEK",
-   "earningsTimestampStart": 1793118600,
-   "earningsTimestamp": 1793118600,
+   "earningsTimestampStart": 1801672200,
+   "earningsTimestamp": 1801672200,
    "fcf_annuels": [
     6506000000.0,
     9442000000.0,
     6729000000.0
    ],
-   "prochains_resultats": "2026-10-27"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "SHL.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1119198976,
    "totalDebt": 14741000192,
    "totalCash": 2542000128,
    "ebitda": 4381000192,
    "freeCashflow": 1719250048,
-   "trailingPE": 22.335026,
+   "trailingPE": 22.435234,
    "targetMeanPrice": 46.745,
    "sector": "Healthcare",
    "financialCurrency": "EUR",
@@ -13344,38 +13345,38 @@
   }
  },
  "DSY.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 1314247393,
    "totalDebt": 2765100032,
    "totalCash": 3814000128,
    "ebitda": 1843699968,
    "freeCashflow": 1620274944,
-   "trailingPE": 25.919191,
-   "targetMeanPrice": 24.8825,
+   "trailingPE": 22.58586,
+   "targetMeanPrice": 25.34737,
    "sector": "Technology",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1793205000,
-   "earningsTimestamp": 1793205000,
+   "earningsTimestampStart": 1801672200,
+   "earningsTimestamp": 1801672200,
    "fcf_annuels": [
     1469300000.0,
     1466400000.0,
     1419900000.0
    ],
-   "prochains_resultats": "2026-10-28"
+   "prochains_resultats": "2027-02-03"
   }
  },
  "RTO.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": 2512107313,
+   "sharesOutstanding": 2509797049,
    "totalDebt": 6140000256,
    "totalCash": 2471000064,
    "ebitda": 1252000000,
    "freeCashflow": 1050875008,
-   "trailingPE": 40.311108,
-   "targetMeanPrice": 447.50873,
+   "trailingPE": 41.666664,
+   "targetMeanPrice": 450.56534,
    "sector": "Industrials",
    "financialCurrency": "USD",
    "currency": "GBp",
@@ -13390,7 +13391,7 @@
   }
  },
  "TEF.MC": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 5628254398,
    "totalDebt": 42481000448,
@@ -13398,7 +13399,7 @@
    "ebitda": 7265999872,
    "freeCashflow": 1404749952,
    "trailingPE": null,
-   "targetMeanPrice": 3.79091,
+   "targetMeanPrice": 3.78636,
    "sector": "Communication Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13413,76 +13414,76 @@
   }
  },
  "SCHP.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 39912607,
    "totalDebt": 0,
    "totalCash": 2216000000,
    "ebitda": 1594499968,
    "freeCashflow": null,
-   "trailingPE": 31.595093,
-   "targetMeanPrice": 307.6,
+   "trailingPE": 29.734152,
+   "targetMeanPrice": 313.6,
    "sector": "Industrials",
    "financialCurrency": "CHF",
    "currency": "CHF",
-   "earningsTimestampStart": 1792683000,
-   "earningsTimestamp": 1792683000,
+   "earningsTimestampStart": 1802277000,
+   "earningsTimestamp": 1802277000,
    "fcf_annuels": [
     1383000000.0,
     1486000000.0,
     1169000000.0
    ],
-   "prochains_resultats": "2026-10-22"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "KRX.IR": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 182514178,
    "totalDebt": 2683699968,
    "totalCash": 594200000,
    "ebitda": 1199399936,
    "freeCashflow": 620524992,
-   "trailingPE": 25.984041,
+   "trailingPE": 24.55163,
    "targetMeanPrice": 127.36667,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1786116600,
+   "earningsTimestampStart": 1803054600,
    "earningsTimestamp": null,
    "fcf_annuels": [
     454500000.0,
     527800000.0,
     924500000.0
    ],
-   "prochains_resultats": "2026-08-07"
+   "prochains_resultats": "2027-02-19"
   }
  },
  "MONC.MI": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 271989727,
    "totalDebt": 1236274944,
    "totalCash": 1142878976,
    "ebitda": 910204992,
    "freeCashflow": 687923968,
-   "trailingPE": 18.514894,
-   "targetMeanPrice": 57.008,
+   "trailingPE": 17.26383,
+   "targetMeanPrice": 56.448,
    "sector": "Consumer Cyclical",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1784734200,
+   "earningsTimestampStart": 1802968200,
    "earningsTimestamp": null,
    "fcf_annuels": [
     740401000.0,
     794311000.0,
     738442000.0
    ],
-   "prochains_resultats": "2026-07-22"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "INFR.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": null,
    "totalDebt": null,
@@ -13499,38 +13500,38 @@
   }
  },
  "FBK.MI": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 611819221,
    "totalDebt": 2432873984,
    "totalCash": 2532943872,
    "ebitda": null,
    "freeCashflow": null,
-   "trailingPE": 20.81818,
+   "trailingPE": 19.572727,
    "targetMeanPrice": 27.34062,
    "sector": "Financial Services",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1801845000,
-   "earningsTimestamp": 1793896200,
+   "earningsTimestampStart": 1802277000,
+   "earningsTimestamp": 1802277000,
    "fcf_annuels": [
     418991000.0,
     136289000.0,
     1122079000.0
    ],
-   "prochains_resultats": "2027-02-05"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "HEN3.DE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 151440961,
    "totalDebt": 6776000000,
    "totalCash": 4421000192,
    "ebitda": 3254000128,
    "freeCashflow": 1401874944,
-   "trailingPE": 18.712154,
-   "targetMeanPrice": 80.38588,
+   "trailingPE": 18.524519,
+   "targetMeanPrice": 82.69778,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13545,106 +13546,107 @@
   }
  },
  "CCH.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 364464550,
    "totalDebt": 6168800256,
    "totalCash": 4738299904,
    "ebitda": 1797500032,
    "freeCashflow": 1593175040,
-   "trailingPE": 18.354431,
-   "targetMeanPrice": 4943.0312,
+   "trailingPE": 18.37131,
+   "targetMeanPrice": 4953.1113,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
    "currency": "GBp",
-   "earningsTimestampStart": 1785943800,
+   "earningsTimestampStart": 1802968200,
    "earningsTimestamp": null,
    "fcf_annuels": [
     760900000.0,
     776500000.0,
     776000000.0
    ],
-   "prochains_resultats": "2026-08-05"
+   "prochains_resultats": "2027-02-18"
   }
  },
  "LOGN.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 141818544,
    "totalDebt": 102454000,
    "totalCash": 1507646976,
    "ebitda": 964720000,
    "freeCashflow": 695290880,
-   "trailingPE": 19.1754,
-   "targetMeanPrice": 89.85785,
+   "trailingPE": 19.013762,
+   "targetMeanPrice": 89.528076,
    "sector": "Technology",
    "financialCurrency": "USD",
    "currency": "CHF",
-   "earningsTimestampStart": 1793118600,
+   "earningsTimestampStart": 1801585800,
    "earningsTimestamp": 1793118600,
    "fcf_annuels": [
     975645000.0,
     786429000.0,
     1089219000.0
    ],
-   "prochains_resultats": "2026-10-27"
+   "prochains_resultats": "2027-02-02"
   }
  },
  "KRZ.IR": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 158930608,
    "totalDebt": 2825100032,
    "totalCash": 604499968,
    "ebitda": 1138400000,
    "freeCashflow": 277550016,
-   "trailingPE": 25.969389,
+   "trailingPE": 25.925,
    "targetMeanPrice": 105.41667,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": null,
+   "earningsTimestampStart": 1802881800,
    "earningsTimestamp": null,
    "fcf_annuels": [
     493900000.0,
     682900000.0,
     755900000.0
-   ]
+   ],
+   "prochains_resultats": "2027-02-17"
   }
  },
  "METSO.HE": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 828113459,
    "totalDebt": 1636000000,
    "totalCash": 445000000,
    "ebitda": 866600000,
    "freeCashflow": 316000000,
-   "trailingPE": 27.683332,
+   "trailingPE": 24.517242,
    "targetMeanPrice": 18.4,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1792683000,
-   "earningsTimestamp": 1792683000,
+   "earningsTimestampStart": 1803054600,
+   "earningsTimestamp": 1803054600,
    "fcf_annuels": [
     627000000.0,
     144000000.0,
     132000000.0
    ],
-   "prochains_resultats": "2026-10-22"
+   "prochains_resultats": "2027-02-19"
   }
  },
  "SOON.SW": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 59541624,
    "totalDebt": 1755800064,
    "totalCash": 677699968,
    "ebitda": 892700032,
    "freeCashflow": 51875000,
-   "trailingPE": 28.425196,
-   "targetMeanPrice": 272.5263,
+   "trailingPE": 29.076464,
+   "targetMeanPrice": 281.6316,
    "sector": "Healthcare",
    "financialCurrency": "CHF",
    "currency": "CHF",
@@ -13659,106 +13661,107 @@
   }
  },
  "URW.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 144549701,
    "totalDebt": 23777300480,
    "totalCash": 2835699968,
    "ebitda": 2311099904,
    "freeCashflow": 1122775040,
-   "trailingPE": 8.694445,
+   "trailingPE": 8.532333,
    "targetMeanPrice": 111.62,
    "sector": "Real Estate",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": 1785425400,
-   "earningsTimestamp": null,
+   "earningsTimestampStart": 1802363400,
+   "earningsTimestamp": 1802363400,
    "fcf_annuels": [
     1151600000.0,
     881900000.0,
     875500000.0
    ],
-   "prochains_resultats": "2026-07-30"
+   "prochains_resultats": "2027-02-11"
   }
  },
  "BVI.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 442352319,
    "totalDebt": 3042099968,
    "totalCash": 942099968,
    "ebitda": 1224600064,
    "freeCashflow": -12262500,
-   "trailingPE": 26.787611,
+   "trailingPE": 26.39823,
    "targetMeanPrice": 33.49471,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
-   "earningsTimestampStart": null,
+   "earningsTimestampStart": 1772037000,
    "earningsTimestamp": null,
    "fcf_annuels": [
     859700000.0,
     858900000.0,
     662100000.0
-   ]
+   ],
+   "prochains_resultats": "2026-02-25"
   }
  },
  "SVT.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 302101054,
-   "totalDebt": 10983999488,
-   "totalCash": 796000000,
-   "ebitda": 1308000000,
-   "freeCashflow": -1170000000,
-   "trailingPE": 27.18699,
-   "targetMeanPrice": 3303.462,
+   "totalDebt": 11368999936,
+   "totalCash": 356000000,
+   "ebitda": 1388999936,
+   "freeCashflow": -1215600000,
+   "trailingPE": 26.780487,
+   "targetMeanPrice": 3325.923,
    "sector": "Utilities",
    "financialCurrency": "GBP",
    "currency": "GBp",
    "earningsTimestampStart": 1795019400,
    "earningsTimestamp": 1795019400,
    "fcf_annuels": [
-    -680500000.0,
-    -386400000.0,
-    9600000.0
+    -677000000.0,
+    -680000000.0,
+    -386400000.0
    ],
    "prochains_resultats": "2026-11-18"
   }
  },
  "MOWI.OL": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 527290596,
    "totalDebt": 3734799872,
    "totalCash": 162200000,
    "ebitda": 1260499968,
    "freeCashflow": -135424992,
-   "trailingPE": 14.849673,
-   "targetMeanPrice": 239.75453,
+   "trailingPE": 14.588235,
+   "targetMeanPrice": 243.36588,
    "sector": "Consumer Defensive",
    "financialCurrency": "EUR",
    "currency": "NOK",
-   "earningsTimestampStart": 1793805600,
-   "earningsTimestamp": 1793805600,
+   "earningsTimestampStart": 1802272800,
+   "earningsTimestamp": 1802272800,
    "fcf_annuels": [
     494700000.0,
     542400000.0,
     595900000.0
    ],
-   "prochains_resultats": "2026-11-04"
+   "prochains_resultats": "2027-02-10"
   }
  },
  "ALO.PA": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
-   "sharesOutstanding": null,
-   "totalDebt": 3555000064,
-   "totalCash": 2296999936,
-   "ebitda": 1155000064,
-   "freeCashflow": 567875008,
-   "trailingPE": 16.429998,
-   "targetMeanPrice": 15.04,
+   "sharesOutstanding": 462616024,
+   "totalDebt": 3505999872,
+   "totalCash": 1624999936,
+   "ebitda": 158000000,
+   "freeCashflow": 640499968,
+   "trailingPE": null,
+   "targetMeanPrice": 14.64,
    "sector": "Industrials",
    "financialCurrency": "EUR",
    "currency": "EUR",
@@ -13773,15 +13776,15 @@
   }
  },
  "SGE.L": {
-  "date": "2026-11-17T04:12:38.733009+00:00",
+  "date": "2026-11-25T04:28:14.219007+00:00",
   "data": {
    "sharesOutstanding": 900608595,
-   "totalDebt": 2022000000,
-   "totalCash": 518000000,
-   "ebitda": 626000000,
-   "freeCashflow": 632249984,
-   "trailingPE": 29.5625,
-   "targetMeanPrice": 1147.579,
+   "totalDebt": 2006000000,
+   "totalCash": 424000000,
+   "ebitda": 731000000,
+   "freeCashflow": 495249984,
+   "trailingPE": 26.627907,
+   "targetMeanPrice": 1237.7369,
    "sector": "Technology",
    "financialCurrency": "GBP",
    "currency": "GBp",

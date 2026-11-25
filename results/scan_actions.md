@@ -1,4 +1,4 @@
-# Scan des actions — 2026-11-24
+# Scan des actions — 2026-11-25
 
 0 entrée(s) validée(s), 0 trade(s) papier, 0 bloquée(s) par les résultats.
 
@@ -16,31 +16,31 @@ Aucun.
 
 ## À surveiller
 
-- LLY : setup B, niveau 1 352,63 USD, à 0,00 ATR
-- JNJ : setup B, niveau 268,84 USD, à 0,00 ATR
-- ABBV : setup B, niveau 284,58 USD, à 0,00 ATR
-- CVX : setup B, niveau 206,70 USD, à 0,00 ATR
-- ABT : setup B, niveau 102,95 USD, à 0,00 ATR
-- DIS : setup B, niveau 117,63 USD, à 0,00 ATR
-- LMT : setup B, niveau 570,42 USD, à 0,00 ATR
-- COP : setup B, niveau 132,22 USD, à 0,00 ATR
-- MDT : setup B, niveau 100,78 USD, à 0,00 ATR
-- MO : setup B, niveau 73,15 USD, à 0,00 ATR
-- CME : setup B, niveau 303,90 USD, à 0,00 ATR
-- AMT : setup B, niveau 179,67 USD, à 0,00 ATR
-- ICE : setup B, niveau 171,19 USD, à 0,00 ATR
-- MRSH : setup B, niveau 204,42 USD, à 0,00 ATR
-- ORLY : setup B, niveau 92,84 USD, à 0,00 ATR
+- CVX : setup B, niveau 206,69 USD, à 0,00 ATR
+- AMT : setup B, niveau 178,36 USD, à 0,00 ATR
 - CSX : setup B, niveau 49,65 USD, à 0,00 ATR
-- SPG : setup B, niveau 224,38 USD, à 0,00 ATR
-- CL : setup B, niveau 96,45 USD, à 0,00 ATR
-- MDLZ : setup B, niveau 65,41 USD, à 0,00 ATR
-- NSC : setup B, niveau 314,23 USD, à 0,00 ATR
-- EOG : setup B, niveau 146,31 USD, à 0,00 ATR
-- TRV : setup B, niveau 393,84 USD, à 0,00 ATR
-- AZO : setup B, niveau 3 273,29 USD, à 0,00 ATR
-- AFL : setup B, niveau 124,00 USD, à 0,00 ATR
-- AJG : setup B, niveau 278,80 USD, à 0,00 ATR
+- EOG : setup B, niveau 146,25 USD, à 0,00 ATR
+- CCI : setup B, niveau 82,55 USD, à 0,00 ATR
+- AEE : setup B, niveau 111,83 USD, à 0,00 ATR
+- ZBH : setup A, niveau 108,99 USD, à 0,00 ATR
+- WST : setup B, niveau 392,39 USD, à 0,00 ATR
+- HPQ : setup B, niveau 28,07 USD, à 0,00 ATR
+- BBY : setup B, niveau 98,64 USD, à 0,00 ATR
+- SJM : setup B, niveau 131,67 USD, à 0,00 ATR
+- PAYC : setup B, niveau 242,09 USD, à 0,00 ATR
+- ULVR.L : setup B, niveau 4 835,80 GBp, à 0,00 ATR
+- OR.PA : setup B, niveau 438,51 EUR, à 0,00 ATR
+- REL.L : setup B, niveau 2 948,23 GBp, à 0,00 ATR
+- DB1.DE : setup B, niveau 312,90 EUR, à 0,00 ATR
+- EXPN.L : setup B, niveau 2 808,99 GBp, à 0,00 ATR
+- GIVN.SW : setup B, niveau 4 037,38 CHF, à 0,00 ATR
+- WKL.AS : setup B, niveau 84,49 EUR, à 0,00 ATR
+- SHL.DE : setup B, niveau 43,12 EUR, à 0,00 ATR
+- HEN3.DE : setup B, niveau 85,24 EUR, à 0,00 ATR
+- LOGN.SW : setup B, niveau 83,46 CHF, à 0,00 ATR
+- GBLB.BR : setup B, niveau 78,00 EUR, à 0,00 ATR
+- WTB.L : setup B, niveau 2 816,31 GBp, à 0,00 ATR
+- GRF.MC : setup B, niveau 11,00 EUR, à 0,00 ATR
 
 Couverture : 673/673 actions avec données, 0 setups, 676 fiches fondamentales en cache.
 
