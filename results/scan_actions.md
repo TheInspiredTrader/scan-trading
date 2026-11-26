@@ -1,6 +1,6 @@
-# Scan des actions — 2026-11-25
+# Scan des actions — 2026-11-26
 
-0 entrée(s) validée(s), 0 trade(s) papier, 0 bloquée(s) par les résultats.
+0 entrée(s) validée(s), 1 trade(s) papier, 0 bloquée(s) par les résultats.
 
 ## Entrées validées
 
@@ -8,7 +8,7 @@ Aucune entrée validée aujourd'hui.
 
 ## Trades papier
 
-Aucun.
+- KRZ.IR : setup A, score 6/10, entrée 103,70, stop 98,38
 
 ## Bloquées par les résultats
 
@@ -16,33 +16,33 @@ Aucun.
 
 ## À surveiller
 
-- CVX : setup B, niveau 206,69 USD, à 0,00 ATR
-- AMT : setup B, niveau 178,36 USD, à 0,00 ATR
-- CSX : setup B, niveau 49,65 USD, à 0,00 ATR
-- EOG : setup B, niveau 146,25 USD, à 0,00 ATR
-- CCI : setup B, niveau 82,55 USD, à 0,00 ATR
-- AEE : setup B, niveau 111,83 USD, à 0,00 ATR
-- ZBH : setup A, niveau 108,99 USD, à 0,00 ATR
-- WST : setup B, niveau 392,39 USD, à 0,00 ATR
-- HPQ : setup B, niveau 28,07 USD, à 0,00 ATR
-- BBY : setup B, niveau 98,64 USD, à 0,00 ATR
-- SJM : setup B, niveau 131,67 USD, à 0,00 ATR
-- PAYC : setup B, niveau 242,09 USD, à 0,00 ATR
-- ULVR.L : setup B, niveau 4 835,80 GBp, à 0,00 ATR
-- OR.PA : setup B, niveau 438,51 EUR, à 0,00 ATR
-- REL.L : setup B, niveau 2 948,23 GBp, à 0,00 ATR
-- DB1.DE : setup B, niveau 312,90 EUR, à 0,00 ATR
-- EXPN.L : setup B, niveau 2 808,99 GBp, à 0,00 ATR
-- GIVN.SW : setup B, niveau 4 037,38 CHF, à 0,00 ATR
-- WKL.AS : setup B, niveau 84,49 EUR, à 0,00 ATR
-- SHL.DE : setup B, niveau 43,12 EUR, à 0,00 ATR
-- HEN3.DE : setup B, niveau 85,24 EUR, à 0,00 ATR
-- LOGN.SW : setup B, niveau 83,46 CHF, à 0,00 ATR
-- GBLB.BR : setup B, niveau 78,00 EUR, à 0,00 ATR
-- WTB.L : setup B, niveau 2 816,31 GBp, à 0,00 ATR
-- GRF.MC : setup B, niveau 11,00 EUR, à 0,00 ATR
+- MSFT : setup B, niveau 489,46 USD, à 0,00 ATR
+- MCD : setup A, niveau 283,53 USD, à 0,00 ATR
+- TMO : setup B, niveau 678,15 USD, à 0,00 ATR
+- BLK : setup B, niveau 1 112,48 USD, à 0,00 ATR
+- MDT : setup B, niveau 94,39 USD, à 0,00 ATR
+- MAR : setup B, niveau 409,96 USD, à 0,00 ATR
+- ABNB : setup B, niveau 172,47 USD, à 0,00 ATR
+- CI : setup B, niveau 271,47 USD, à 0,00 ATR
+- ADSK : setup B, niveau 247,74 USD, à 0,00 ATR
+- DAL : setup B, niveau 81,35 USD, à 0,00 ATR
+- WAT : setup B, niveau 445,43 USD, à 0,00 ATR
+- ULTA : setup B, niveau 622,93 USD, à 0,00 ATR
+- MTD : setup B, niveau 1 685,32 USD, à 0,00 ATR
+- TROW : setup B, niveau 102,42 USD, à 0,00 ATR
+- VTRS : setup B, niveau 19,58 USD, à 0,00 ATR
+- FTV : setup B, niveau 64,80 USD, à 0,00 ATR
+- J : setup B, niveau 147,17 USD, à 0,00 ATR
+- NDSN : setup B, niveau 310,26 USD, à 0,00 ATR
+- IEX : setup B, niveau 222,21 USD, à 0,00 ATR
+- BEN : setup B, niveau 32,46 USD, à 0,00 ATR
+- ERIE : setup A, niveau 279,84 USD, à 0,00 ATR
+- SWK : setup B, niveau 107,60 USD, à 0,00 ATR
+- SJM : setup B, niveau 131,71 USD, à 0,00 ATR
+- RVTY : setup B, niveau 147,23 USD, à 0,00 ATR
+- PAYC : setup B, niveau 242,20 USD, à 0,00 ATR
 
-Couverture : 673/673 actions avec données, 0 setups, 676 fiches fondamentales en cache.
+Couverture : 673/673 actions avec données, 2 setups, 676 fiches fondamentales en cache.
 
 *Pivots, zones et structure calculés avec les swings journaliers et hebdomadaires ; notation mensuelle = MACD mensuel + SMA10 ; pas d'order blocks, FVG, BOS/CHoCH ni notation TradingView.*
 
