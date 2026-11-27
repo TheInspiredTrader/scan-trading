@@ -1,6 +1,6 @@
-# Scan des actions — 2026-11-26
+# Scan des actions — 2026-11-27
 
-0 entrée(s) validée(s), 1 trade(s) papier, 0 bloquée(s) par les résultats.
+0 entrée(s) validée(s), 0 trade(s) papier, 0 bloquée(s) par les résultats.
 
 ## Entrées validées
 
@@ -8,7 +8,7 @@ Aucune entrée validée aujourd'hui.
 
 ## Trades papier
 
-- KRZ.IR : setup A, score 6/10, entrée 103,70, stop 98,38
+Aucun.
 
 ## Bloquées par les résultats
 
@@ -42,7 +42,7 @@ Aucun.
 - RVTY : setup B, niveau 147,23 USD, à 0,00 ATR
 - PAYC : setup B, niveau 242,20 USD, à 0,00 ATR
 
-Couverture : 673/673 actions avec données, 2 setups, 676 fiches fondamentales en cache.
+Couverture : 673/673 actions avec données, 1 setups, 676 fiches fondamentales en cache.
 
 *Pivots, zones et structure calculés avec les swings journaliers et hebdomadaires ; notation mensuelle = MACD mensuel + SMA10 ; pas d'order blocks, FVG, BOS/CHoCH ni notation TradingView.*
 
